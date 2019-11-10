@@ -1,0 +1,10 @@
+---
+title: "About Us - The Miller Lab"
+author: "David Miller"
+date: "11/10/2019"
+output: html_document
+---
+
+[About David Miller, MD, PhD](/DMM_bio.Rmd)
+
+<img src="/images/DMM_pic.jpg" width="200" height="200" />
