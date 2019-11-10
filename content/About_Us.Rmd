@@ -12,3 +12,7 @@ output: html_document
 [About Sophia Shalhout, PhD](/SZS_bio)
 
 <img src="/images/SZS.png" width="200" height="200" />
+
+[About Farees Saqlain, MSIV](/FS_bio)
+
+<img src="/images/FS.jgg" width="200" height="200" />
