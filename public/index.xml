@@ -22,12 +22,14 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>About The Miller Lab</title>
       <link>/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>About David Miller, MD, PhD
+David M. Miller, MD, PhD is a board-certified Dermatologist and Internist, as well as a board-eligible Hematologist and Medical Oncologist.
+Dr. Miller graduated with Honors from Boston College where he earned a BA in Political Science. He received his medical (MD) and PhD degree in Biomedical Sciences from the University of Massachusetts. While at UMass, Dr. Miller received the American Diabetes Association Physician-Scientist Training Award for three consecutive years, a Fuller Foundation grant, and he was inducted into the Alpha Omega Honor Society.</description>
     </item>
     
     <item>
