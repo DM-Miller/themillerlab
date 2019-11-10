@@ -1,0 +1,55 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "The Miler Lab"
+theme = "hugo-lithium"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About Us"
+    url = "/About_Us"
+[[menu.main]]
+    name = "Publications"
+    url = "https://www.ncbi.nlm.nih.gov/pubmed/?term=Miller%20DM%5BAuthor%5D&cauthor=true&cauthor_uid=29408204"
+[[menu.main]]
+    name = "Posts"
+    url = "/Posts"
+[[menu.main]]
+    name = "Projects"
+    url = "/Projects"
+[[menu.main]]
+    name = "Teaching"
+    url = "/Teaching"
+[[menu.main]]
+    name = "Presentations"
+    url = "/Presentations"
+[[menu.main]]
+    name = "Contact"
+    url = "/Contact"    
+
+[params]
+    description = "A website built through Hugo and blogdown."
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    # path to the favicon, under "static"
+    favicon = "TML-logo.png"
+
+    [params.logo]
+    url = "TML-logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+    
+
