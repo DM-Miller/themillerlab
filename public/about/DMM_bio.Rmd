@@ -1,10 +1,9 @@
 ---
-title: "DMM Biography"
+title: "About David M. Miller MD, PhD"
 author: "David Miller"
 date: "11/10/2019"
 output: html_document
 ---
-About David Miller, MD, PhD
 
 <img src="/images/DMM_pic.jpg" width="200" height="200" />
 
