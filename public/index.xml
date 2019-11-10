@@ -59,5 +59,16 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <description>Dr. Sophia Z. Shalhout Ph.D.</description>
     </item>
     
+    <item>
+      <title>DMM Biography</title>
+      <link>/dmm_bio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dmm_bio/</guid>
+      <description>About David Miller, MD, PhD
+David M. Miller, MD, PhD is a board-certified Dermatologist and Internist, as well as a board-eligible Hematologist and Medical Oncologist.
+Dr. Miller graduated with Honors from Boston College where he earned a BA in Political Science. He received his medical (MD) and PhD degree in Biomedical Sciences from the University of Massachusetts. While at UMass, Dr. Miller received the American Diabetes Association Physician-Scientist Training Award for three consecutive years, a Fuller Foundation grant, and he was inducted into the Alpha Omega Honor Society.</description>
+    </item>
+    
   </channel>
 </rss>
