@@ -12,10 +12,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "About Us"
     url = "/About_Us"
-
-[[menu.main]]
-    name = "About"
-    url = "/about"
 [[menu.main]]
     name = "Publications"
     url = "https://www.ncbi.nlm.nih.gov/pubmed/?term=Miller%20DM%5BAuthor%5D&cauthor=true&cauthor_uid=29408204"

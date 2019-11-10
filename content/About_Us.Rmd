@@ -5,6 +5,6 @@ date: "11/10/2019"
 output: html_document
 ---
 
-[About David Miller, MD, PhD](/DMM_bio.Rmd)
+[About David Miller, MD, PhD](/DMM_bio)
 
 <img src="/images/DMM_pic.jpg" width="200" height="200" />
