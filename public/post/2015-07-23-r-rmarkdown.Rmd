@@ -1,7 +1,0 @@
----
-title: "The Miller Lab"
-author: "David Miller"
-date: 2019-11-10
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
----
