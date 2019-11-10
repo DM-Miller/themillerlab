@@ -14,10 +14,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
 [[menu.main]]
     name = "Publications"
-    url = "https://github.com/rstudio/blogdown"
+    url = "https://www.ncbi.nlm.nih.gov/pubmed/?term=Miller%20DM%5BAuthor%5D&cauthor=true&cauthor_uid=29408204"
 [[menu.main]]
     name = "MGH Cancer Center"
-    url = "https://twitter.com/rstudio"
+    url = "https://www.massgeneral.org/cancer-center"
 
 [params]
     description = "A website built through Hugo and blogdown."
