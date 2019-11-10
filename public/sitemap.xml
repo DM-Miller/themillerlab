@@ -63,6 +63,10 @@
   </url>
   
   <url>
+    <loc>/dmm_bio/</loc>
+  </url>
+  
+  <url>
     <loc>/fs_bio/</loc>
   </url>
   
@@ -80,10 +84,6 @@
   
   <url>
     <loc>/corf/</loc>
-  </url>
-  
-  <url>
-    <loc>/dmm_bio/</loc>
   </url>
   
   <url>
