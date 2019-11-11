@@ -1,29 +1,28 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include clinical and translational research in advanced skin cancers.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Doctorate of Medicine
+    institution: University of Massachusetts Medical School
+    year: 2010
+  - course: PhD in Biomedical Sciences
+    institution: University of Massachusetts Medical School
+    year: 2010
+  - course: BA in Political Science
+    institution: Boston College
+    year: 2000
+email: "dmiller4@mgh.harvard.edu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Merkel Cell Carcinoma
+- Squamous Cell Carcinoma
+- Clinical And Translational Research
+name: David Michael Miller
 organizations:
-- name: Stanford University
+- name: Massachusetts General Hospital
   url: ""
-role: Professor of Artificial Intelligence
+role: Medical Oncologist and Dermatologist
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,6 +42,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+**David Michael Miller, MD, PhD, FAAD** is an Instructor in Dermatology and Medicine at Harvard Medical School and member of the Department of Dermatology and the Department of Medicine at Massachusetts General Hospital, where he is co-director of the Merkel cell carcinoma treatment program. 
