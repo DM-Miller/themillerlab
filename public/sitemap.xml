@@ -203,7 +203,11 @@
   </url>
   
   <url>
-    <loc>/authors/researchers/</loc>
+    <loc>/authors/fellows/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/students/</loc>
   </url>
   
   <url>

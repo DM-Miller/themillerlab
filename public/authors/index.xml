@@ -17,7 +17,10 @@
       <link>/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;David Michael Miller, MD, PhD, FAAD&lt;/strong&gt; is an Instructor in Dermatology and Medicine at Harvard Medical School and member of the Department of Dermatology and the Department of Medicine at Massachusetts General Hospital, where he is co-director of the Merkel cell carcinoma treatment program.&lt;/p&gt;
+      <description>
+
+
+&lt;p&gt;&lt;strong&gt;David Michael Miller, MD, PhD, FAAD&lt;/strong&gt; is an Instructor in Dermatology and Medicine at Harvard Medical School and member of the Department of Dermatology and the Department of Medicine at Massachusetts General Hospital, where he is co-director of the Merkel cell carcinoma treatment program.&lt;/p&gt;
 </description>
     </item>
     
@@ -31,10 +34,25 @@
     
     <item>
       <title></title>
-      <link>/authors/researchers/</link>
+      <link>/authors/fellows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/researchers/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Sophia Shalhout PhD&lt;/strong&gt; is the Cutaneous Oncology Research Fellow at the Massachusetts General Hospital&lt;/p&gt;
+      <guid>/authors/fellows/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;strong&gt;Sophia Shalhout PhD&lt;/strong&gt; is the Cutaneous Oncology Research Fellow at the Massachusetts General Hospital&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/students/</guid>
+      <description>
+
+
+
 </description>
     </item>
     
