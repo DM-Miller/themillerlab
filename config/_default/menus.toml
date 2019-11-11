@@ -5,7 +5,7 @@
 
 [[main]]
   name = "About Us"
-  url = "#about_us"
+  url = "#people"
   weight = 10
 
 [[main]]

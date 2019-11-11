@@ -39,6 +39,7 @@ social:
 superuser: true
 user_groups:
 - admin
+- Principal Investigator
 ---
 
 **David Michael Miller, MD, PhD, FAAD** is an Instructor in Dermatology and Medicine at Harvard Medical School and member of the Department of Dermatology and the Department of Medicine at Massachusetts General Hospital, where he is co-director of the Merkel cell carcinoma treatment program. 
