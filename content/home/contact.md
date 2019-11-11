@@ -15,6 +15,15 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 1
 +++
 
+# Clinical Matters:
+For clinical questions, please contact the **MGH Cancer Center**   
+Telephone: 617-724-5197  
+Fax: 617-643-1740  
+
+
+# Lab Related Matters 
+The below contact information is for **The Miller Lab** related matters  
+## Email
