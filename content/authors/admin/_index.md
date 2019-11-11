@@ -29,17 +29,16 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Dave_M_Miller
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=ZS-h1PsAAAAJ&hl=enAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/DM-Miller
 superuser: true
 user_groups:
-- Researchers
-- Visitors
+- admin
 ---
 
 **David Michael Miller, MD, PhD, FAAD** is an Instructor in Dermatology and Medicine at Harvard Medical School and member of the Department of Dermatology and the Department of Medicine at Massachusetts General Hospital, where he is co-director of the Merkel cell carcinoma treatment program. 
