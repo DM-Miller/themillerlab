@@ -1,0 +1,14 @@
+---
+title: "Research"
+author: "David Miller"
+date: "11/11/2019"
+output: html_document
+---
+
+# Merkel Cell Carcinoma   
+- [Merkel Cell Carcinoma Tumor Registry](https://www.merkelcellcarcinomaregistry.io)
+- Genomic Landscape of Merkel Cell Carcinoma  
+- what constitutes adequate clinical trials; consensus of experts in the field
+# Evolving Landscape of Regulatory Medicine 
+- Evolving Landscape of Regulatory Medicine in Psoriasis
+- Evolving Landscape of Regulatory Medicine in Cutaneous Oncology
