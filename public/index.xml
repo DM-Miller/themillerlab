@@ -834,5 +834,20 @@ Figure 1: A fancy pie chart.
 </description>
     </item>
     
+    <item>
+      <title>MCC Registry</title>
+      <link>/mcc_registry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/mcc_registry/</guid>
+      <description>
+
+
+&lt;div id=&#34;mcc-tumor-registry&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;MCC Tumor Registry&lt;/h1&gt;
+&lt;p&gt;Testing&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

@@ -214,4 +214,8 @@
     <loc>/courses/</loc>
   </url>
   
+  <url>
+    <loc>/mcc_registry/</loc>
+  </url>
+  
 </urlset>
