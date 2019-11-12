@@ -6,7 +6,7 @@ output: html_document
 ---
 
 # Merkel Cell Carcinoma   
-- [Merkel Cell Cacinoma Tumor Registry](/DMM_CV.pdf) 
+- Merkel Cell Carcinoma Tumor Registry
 - Genomic Landscape of Merkel Cell Carcinoma  
 - what constitutes adequate clinical trials; consensus of experts in the field
 # Evolving Landscape of Regulatory Medicine 
