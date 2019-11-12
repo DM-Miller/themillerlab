@@ -54,7 +54,7 @@ user_groups:
 - Principal Investigator
 ---
 
-**David Michael Miller, MD, PhD, FAAD** is an Instructor in Dermatology and Medicine at Harvard Medical School and member of the Department of Dermatology and the Department of Medicine at Massachusetts General Hospital, where he is co-director of the [Merkel cell Carcinoma Treatment Program](https://www.massgeneral.org/cancer-center/treatments-and-services/melanoma/merkel-cell-carcinoma). 
+**David Michael Miller, MD, PhD, FAAD** is an Instructor in Dermatology and Medicine at Harvard Medical School and member of the Department of Dermatology and the Department of Medicine at Massachusetts General Hospital, where he is co-director of the [Merkel Cell Carcinoma Treatment Program](https://www.massgeneral.org/cancer-center/treatments-and-services/melanoma/merkel-cell-carcinoma). 
 
 Dr. Miller graduated with Honors from Boston College where he earned a BA in Political Science.  He received his medical (MD) and PhD degree in Biomedical Sciences from the University of Massachusetts.  While at UMass, Dr. Miller received the American Diabetes Association Physician-Scientist Training Award for three consecutive years, a Fuller Foundation grant, and he was inducted into the Alpha Omega Honor Society.  He then completed a Dermatology residency at Columbia University Medical Center, followed by a residency in Internal Medicine at Brigham and Women's Hospital. Following both residencies, Dr. Miller completed fellowship training in Hematology/Oncology at Beth Israel Deaconess Medical Center and in the Oncology Center of Excellence at the Food and Drug Administration. 
 
