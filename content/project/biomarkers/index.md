@@ -2,7 +2,7 @@
 date: "2019-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption:  
+  caption: Photo by Nick Morrison on Unsplash
   focal_point: Smart
 links:
 - icon: twitter
@@ -20,4 +20,5 @@ url_slides: ""
 url_video: ""
 ---
 
-# Predictive and Prognostic Biomarkers of Response
+# Overview
+We are investigating why patients respond - or fail to respond - to cancer therapies
