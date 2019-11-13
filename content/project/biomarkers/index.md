@@ -13,7 +13,7 @@ slides: example
 summary: Investigating why patients respond to cancer therapies
 tags:
 - Biomarkers
-title: Biomarks of Response and Resistance to Cancer Therapy
+title: Biomarkers of Response and Resistance to Cancer Therapy
 url_code: ""
 url_pdf: ""
 url_slides: ""
