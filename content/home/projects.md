@@ -27,12 +27,19 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Patient Registries"
-    tag = "Deep Learning"
+    tag = "Patient Registries"
   
   [[content.filter_button]]
     name = "Clinical Trials"
-    tag = "Demo"
+    tag = "Clincal Trials"
 
+  [[content.filter_button]]
+    name = "Biomarkers"
+    tag = "Biomarkers"
+    
+  [[content.filter_button]]
+    name = "Regulatory Medicine"
+    tag = "regulatory-medicine"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

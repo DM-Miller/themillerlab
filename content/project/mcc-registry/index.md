@@ -12,7 +12,7 @@ links:
 slides: example
 summary: MCC Patient Registry.
 tags:
-- Deep Learning
+- Patient Registries
 title: Merkel Cell Carcinoma Patient Registry
 url_code: ""
 url_pdf: ""

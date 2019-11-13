@@ -5,12 +5,21 @@
     <link>/tags/patient-registries/</link>
       <atom:link href="/tags/patient-registries/index.xml" rel="self" type="application/rss+xml" />
     <description>Patient Registries</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 18:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/TML-logo.png</url>
       <title>Patient Registries</title>
       <link>/tags/patient-registries/</link>
     </image>
+    
+    <item>
+      <title>Merkel Cell Carcinoma Patient Registry</title>
+      <link>/project/mcc-registry/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/mcc-registry/</guid>
+      <description>&lt;p&gt;MCC-Registry Testing&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Project Data Sphere &amp; MCC patient Registry- From Promise to Prototype to Patient</title>
