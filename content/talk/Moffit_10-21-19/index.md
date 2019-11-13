@@ -8,7 +8,7 @@ address:
   street: 12902 USF Magnolia Drive
 all_day: false
 authors: []
-date: "2019-10-21"
+date: "2019-10-21T16:30:00Z"
 date_end: ""
 event: International Symposium on Merkel Cell Carcinoma
 event_url: https://moffitt.org/for-healthcare-providers/continuing-education/provider-conferences/international-symposium-on-merkel-cell-carcinoma/?utm_source=fhppost&utm_medium=referral&utm_campaign=cme&utm_content=cutaneous
@@ -25,7 +25,7 @@ location: Moffitt Cancer Center
 math: true
 projects:
 - mcc-registry
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-11-12T16:00:00Z"
 slides: ""
 summary:
 tags: []

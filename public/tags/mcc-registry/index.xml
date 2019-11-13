@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mcc-registry | The Miller Lab</title>
+    <link>/tags/mcc-registry/</link>
+      <atom:link href="/tags/mcc-registry/index.xml" rel="self" type="application/rss+xml" />
+    <description>mcc-registry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2019 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/TML-logo.png</url>
+      <title>mcc-registry</title>
+      <link>/tags/mcc-registry/</link>
+    </image>
+    
+    <item>
+      <title>MCC Patient Registry</title>
+      <link>/talk/fda_8-20-19/</link>
+      <pubDate>Tue, 20 Aug 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/fda_8-20-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

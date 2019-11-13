@@ -5,12 +5,20 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2019 09:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/TML-logo.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>mcc-registry</title>
+      <link>/tags/mcc-registry/</link>
+      <pubDate>Tue, 20 Aug 2019 09:00:00 +0000</pubDate>
+      <guid>/tags/mcc-registry/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Biomarkers</title>
@@ -25,14 +33,6 @@
       <link>/tags/deep-learning/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/source-themes/</guid>
       <description></description>
     </item>
     
@@ -57,6 +57,14 @@
       <link>/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/source-themes/</guid>
       <description></description>
     </item>
     

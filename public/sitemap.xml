@@ -19,17 +19,32 @@
   
   <url>
     <loc>/talk/moffit_10-21-19/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-21T16:30:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-21T16:30:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-21T16:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/fda_8-20-19/</loc>
+    <lastmod>2019-08-20T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mcc-registry/</loc>
+    <lastmod>2019-08-20T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-08-20T09:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -68,8 +83,13 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <loc>/tags/patient-registries/</loc>
+    <lastmod>2019-03-01T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/mig_3-1-19/</loc>
+    <lastmod>2019-03-01T18:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -78,43 +98,8 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/patient-registries/</loc>
-    <lastmod>2019-03-01T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/mig_3-1-19/</loc>
-    <lastmod>2019-03-01T18:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -140,11 +125,6 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/fda_8-20-19/</loc>
-    <lastmod>2018-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -193,7 +173,22 @@
   </url>
   
   <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -220,16 +215,6 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
