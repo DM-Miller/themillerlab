@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regulatory-medicine | The Miller Lab</title>
+    <link>/tags/regulatory-medicine/</link>
+      <atom:link href="/tags/regulatory-medicine/index.xml" rel="self" type="application/rss+xml" />
+    <description>regulatory-medicine</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/TML-logo.png</url>
+      <title>regulatory-medicine</title>
+      <link>/tags/regulatory-medicine/</link>
+    </image>
+    
+    <item>
+      <title>Evolving Landscape of Regulatory</title>
+      <link>/project/regulatory-medicine/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/regulatory-medicine/</guid>
+      <description>
+
+&lt;h1 id=&#34;the-evolving-landscape-of-regulatory-medicine&#34;&gt;The Evolving Landscape Of Regulatory Medicine&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
