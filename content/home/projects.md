@@ -40,6 +40,11 @@ subtitle = ""
   [[content.filter_button]]
     name = "Regulatory Medicine"
     tag = "regulatory-medicine"
+    
+  [[content.filter_button]]
+    name = "Data Science"
+    tag = "data-science"
+    
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
