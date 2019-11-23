@@ -39,6 +39,6 @@ image = "books.jpg"
   
 # The Miller Lab
     
-We are a group of investigators in the [**Massachusetts General Hospital Cancer Center**](https://www.massgeneral.org/cancer-center). Our longterm goal is identify and develop novel therapies for advanced skin cancer.   
+We are a group of investigators in the [**Massachusetts General Hospital Cancer Center**](https://www.massgeneral.org/cancer-center). Our longterm goal is to identify and develop novel therapies for advanced skin cancer.   
 
-Our research portfolio consists of clinical and translational projects in [**Merkel Cell carcinoma**](https://www.merkelcellcarcinoma.io) and cutaneous [**Squamous Cell Carcinoma**](https://www.squamouscellcarcinoma.io). 
+Our research portfolio consists of clinical and translational projects in [**Merkel Cell carcinoma**](https://www.merkelcellcarcinoma.io), cutaneous [**Squamous Cell Carcinoma**](https://www.squamouscellcarcinoma.io) and Melanoma. 

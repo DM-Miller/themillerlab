@@ -91,6 +91,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153183352-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-153183352-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -486,9 +522,9 @@
 
 <h1 id="the-miller-lab">The Miller Lab</h1>
 
-<p>We are a group of investigators in the <a href="https://www.massgeneral.org/cancer-center" target="_blank"><strong>Massachusetts General Hospital Cancer Center</strong></a>. Our longterm goal is identify and develop novel therapies for advanced skin cancer.</p>
+<p>We are a group of investigators in the <a href="https://www.massgeneral.org/cancer-center" target="_blank"><strong>Massachusetts General Hospital Cancer Center</strong></a>. Our longterm goal is to identify and develop novel therapies for advanced skin cancer.</p>
 
-<p>Our research portfolio consists of clinical and translational projects in <a href="https://www.merkelcellcarcinoma.io" target="_blank"><strong>Merkel Cell carcinoma</strong></a> and cutaneous <a href="https://www.squamouscellcarcinoma.io" target="_blank"><strong>Squamous Cell Carcinoma</strong></a>.</p>
+<p>Our research portfolio consists of clinical and translational projects in <a href="https://www.merkelcellcarcinoma.io" target="_blank"><strong>Merkel Cell carcinoma</strong></a>, cutaneous <a href="https://www.squamouscellcarcinoma.io" target="_blank"><strong>Squamous Cell Carcinoma</strong></a> and Melanoma.</p>
 </div>
     
 
