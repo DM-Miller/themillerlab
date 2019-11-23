@@ -1,9 +1,13 @@
 {
-    "path" : "~/Dropbox (Partners HealthCare)/mLab/The Miller Lab Website/content/project/external-project",
+    "path" : "~/Dropbox (Partners HealthCare)/mLab/The Miller Lab Website/content/project/regulatory-medicine",
     "sortOrder" : [
         {
             "ascending" : true,
             "columnIndex" : 2
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 4
         }
     ]
 }
