@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David M. Miller | The Miller Lab</title>
+    <link>/authors/david-m.-miller/</link>
+      <atom:link href="/authors/david-m.-miller/index.xml" rel="self" type="application/rss+xml" />
+    <description>David M. Miller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/TML-logo.png</url>
+      <title>David M. Miller</title>
+      <link>/authors/david-m.-miller/</link>
+    </image>
+    
+    <item>
+      <title>Project Data Sphere &amp; MCC patient Registry- From Promise to Prototype to Patient</title>
+      <link>/talk/mig_3-1-19/</link>
+      <pubDate>Fri, 01 Mar 2019 18:00:00 +0000</pubDate>
+      <guid>/talk/mig_3-1-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
