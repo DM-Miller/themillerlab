@@ -31,7 +31,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Clinical Trials"
-    tag = "Clincal Trials"
+    tag = "clinical-trials"
 
   [[content.filter_button]]
     name = "Biomarkers"

@@ -5,12 +5,33 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/TML-logo.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Clinical Trial for Skin Cancer</title>
+      <link>/project/clinical-trials/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/clinical-trials/</guid>
+      <description>
+
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;We are involved with clinical studies to improve outcomes for patients with Skin Cancer&lt;/p&gt;
+
+&lt;h1 id=&#34;clinical-trials-in-merkel-cell-carcinoma&#34;&gt;Clinical Trials in Merkel Cell Carcinoma&lt;/h1&gt;
+
+&lt;p&gt;Dr. Miller is the MGH site Principal Investigator for &lt;a href=&#34;https://clinicaltrials.gov/ct2/show/NCT03712605?term=pembrolizumab&amp;amp;cond=merkel+cell+carcinoma&amp;amp;draw=2&amp;amp;rank=5&#34; target=&#34;_blank&#34;&gt;STAMP: Surgically Treated Adjuvant Merkel Cell Carcinoma With Pembrolizumab, a Phase III Trial&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;clinical-trials-in-melanoma&#34;&gt;Clinical Trials in Melanoma&lt;/h1&gt;
+
+&lt;p&gt;Dr. Miller is a MGH sub-investigator for &lt;a href=&#34;https://clinicaltrials.gov/ct2/show/NCT03272464?term=flaherty&amp;amp;cond=melanoma&amp;amp;draw=2&amp;amp;rank=1&#34; target=&#34;_blank&#34;&gt;INCB039110 in Combination With Dabrafenib and Trametinib in Patients With BRAF-mutant Melanoma and Other Solid Tumors&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Data Science Tool Development</title>
