@@ -28,7 +28,7 @@ projects:
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: 
-tags: []
+tags: [David M. Miller MD, PhD, FAAD]
 title: Work Up and Management of Non-Melanoma Skin Cancer 
 url_code: ""
 url_pdf: ""

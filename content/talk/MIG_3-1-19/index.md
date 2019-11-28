@@ -7,7 +7,7 @@ address:
   region: District of Columbia
   street: 
 all_day: false
-authors: []
+authors: [David M. Miller MD, PhD, FAAD]
 date: "2019-03-01T18:00:00Z"
 date_end: "2019-03-01T18:10:00Z"
 event: Merkel Cell Carcinoma Interest Group Meeting Conference

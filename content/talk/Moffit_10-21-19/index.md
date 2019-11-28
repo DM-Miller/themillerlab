@@ -28,7 +28,7 @@ projects:
 publishDate: "2019-11-12T16:00:00Z"
 slides: ""
 summary:
-tags: []
+tags: [David M. Miller MD, PhD, FAAD]
 title: Project Data Sphere and Ongoing Multi-Institutional Database Efforts
 url_code: ""
 url_pdf: ""

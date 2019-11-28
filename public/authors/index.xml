@@ -5,12 +5,36 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2019 07:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/TML-logo.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>David M. Miller MD</title>
+      <link>/authors/david-m.-miller-md/</link>
+      <pubDate>Tue, 19 Nov 2019 07:00:00 +0000</pubDate>
+      <guid>/authors/david-m.-miller-md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAAD</title>
+      <link>/authors/faad/</link>
+      <pubDate>Tue, 19 Nov 2019 07:00:00 +0000</pubDate>
+      <guid>/authors/faad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD</title>
+      <link>/authors/phd/</link>
+      <pubDate>Tue, 19 Nov 2019 07:00:00 +0000</pubDate>
+      <guid>/authors/phd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

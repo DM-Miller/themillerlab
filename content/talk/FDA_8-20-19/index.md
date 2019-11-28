@@ -7,7 +7,7 @@ address:
   region: MD
   street: 10903 New Hampshire Ave
 all_day: false
-authors: []
+authors: [David M. Miller MD, PhD, FAAD]
 date: "2019-08-20T09:00:00Z"
 date_end: "2019-08-20T15:00:00Z"
 event: Drug Repurposing for Oncology Rare Diseases Mini-Symposium

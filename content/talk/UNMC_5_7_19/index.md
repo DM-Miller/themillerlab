@@ -7,7 +7,7 @@ address:
   region: NE
   street: 4014 Leavenworth St.
 all_day: false
-authors: []
+authors: [David M. Miller MD, PhD, FAAD]
 date: "2019-05-07T18:00:00Z"
 date_end: "2019-05-07T19:00:00Z"
 event: UNMC Dermatology Grand Rounds

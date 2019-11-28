@@ -7,7 +7,7 @@ address:
   region: MA
   street: 55 Fruit Street
 all_day: false
-authors: []
+authors: [David M. Miller MD, PhD, FAAD]
 date: "2019-08-23T08:00:00Z"
 date_end: "2019-08-23T08:30:00Z"
 event: Medical Education Program on Melanoma Management

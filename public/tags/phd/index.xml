@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD | The Miller Lab</title>
+    <link>/tags/phd/</link>
+      <atom:link href="/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>PhD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2019 16:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/TML-logo.png</url>
+      <title>PhD</title>
+      <link>/tags/phd/</link>
+    </image>
+    
+    <item>
+      <title>Project Data Sphere and Ongoing Multi-Institutional Database Efforts</title>
+      <link>/talk/moffit_10-21-19/</link>
+      <pubDate>Mon, 21 Oct 2019 16:30:00 +0000</pubDate>
+      <guid>/talk/moffit_10-21-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work Up and Management of Non-Melanoma Skin Cancer</title>
+      <link>/talk/medical_education_program_on_melanoma_management_nmsc/</link>
+      <pubDate>Fri, 23 Aug 2019 08:30:00 +0000</pubDate>
+      <guid>/talk/medical_education_program_on_melanoma_management_nmsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
