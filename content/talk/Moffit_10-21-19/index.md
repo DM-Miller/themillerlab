@@ -7,9 +7,9 @@ address:
   region: Fl
   street: 12902 USF Magnolia Drive
 all_day: false
-authors: []
+authors: [David M. Miller MD, PhD, FAAD]
 date: "2019-10-21T16:30:00Z"
-date_end: ""
+date_end: "2019-10-21T16:45:00Z"
 event: International Symposium on Merkel Cell Carcinoma
 event_url: https://moffitt.org/for-healthcare-providers/continuing-education/provider-conferences/international-symposium-on-merkel-cell-carcinoma/?utm_source=fhppost&utm_medium=referral&utm_campaign=cme&utm_content=cutaneous
 featured: false
@@ -28,7 +28,7 @@ projects:
 publishDate: "2019-11-12T16:00:00Z"
 slides: ""
 summary:
-tags: [David M. Miller MD, PhD, FAAD]
+tags: []
 title: Project Data Sphere and Ongoing Multi-Institutional Database Efforts
 url_code: ""
 url_pdf: ""

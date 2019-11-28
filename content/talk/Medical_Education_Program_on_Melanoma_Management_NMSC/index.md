@@ -7,7 +7,7 @@ address:
   region: MA
   street: 55 Fruit Street
 all_day: false
-authors: []
+authors: [David M. Miller MD, PhD, FAAD]
 date: "2019-08-23T08:30:00Z"
 date_end: "2019-08-23T09:00:00Z"
 event: Medical Education Program on Melanoma Management
@@ -28,7 +28,7 @@ projects:
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: 
-tags: [David M. Miller MD, PhD, FAAD]
+tags: []
 title: Work Up and Management of Non-Melanoma Skin Cancer 
 url_code: ""
 url_pdf: ""
