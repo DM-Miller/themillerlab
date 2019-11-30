@@ -7,7 +7,7 @@ image:
 summary: Investigating novel therapies for patients with advanced skin cancer
 tags:
 - clinical-trials
-title: Clinical Trial for Skin Cancer
+title: Clinical Trials for Skin Cancer
 ---
 
 # Overview
