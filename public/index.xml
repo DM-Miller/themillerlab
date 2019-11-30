@@ -153,10 +153,10 @@
     </item>
     
     <item>
-      <title>Diagnosis and Initial Dermatologic Management of Melanoma</title>
-      <link>/talk/harvard_derm_resident_lecture_melanoma-08-01-19/</link>
+      <title>Diagnosis and Initial Management of Melanoma</title>
+      <link>/talk/medical_education_program_on_melanoma_management_melanoma-8-23-19/</link>
       <pubDate>Fri, 23 Aug 2019 08:00:00 +0000</pubDate>
-      <guid>/talk/harvard_derm_resident_lecture_melanoma-08-01-19/</guid>
+      <guid>/talk/medical_education_program_on_melanoma_management_melanoma-8-23-19/</guid>
       <description></description>
     </item>
     
@@ -170,9 +170,9 @@
     
     <item>
       <title>Melanoma</title>
-      <link>/talk/medical_education_program_on_melanoma_management_melanoma-8-23-19/</link>
+      <link>/talk/harvard_derm_resident_lecture_melanoma-08-01-19/</link>
       <pubDate>Thu, 01 Aug 2019 07:00:00 +0000</pubDate>
-      <guid>/talk/medical_education_program_on_melanoma_management_melanoma-8-23-19/</guid>
+      <guid>/talk/harvard_derm_resident_lecture_melanoma-08-01-19/</guid>
       <description></description>
     </item>
     
@@ -419,6 +419,14 @@ gantt
 
 &lt;p&gt;We are working with &lt;a href=&#34;https://www.projectdatasphere.org/projectdatasphere/html/home&#34; target=&#34;_blank&#34;&gt;Project Data Sphere&lt;/a&gt; to develop a multi-institutional registry for patients with &lt;a href=&#34;https://www.merkelcellcarcinoma.io&#34; target=&#34;_blank&#34;&gt;Merkel Cell Carcinoma&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Merkel Cell Carcinoma</title>
+      <link>/talk/gw_derm_resident_lecture_mcc-04-18-19/</link>
+      <pubDate>Thu, 18 Apr 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/gw_derm_resident_lecture_mcc-04-18-19/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -686,6 +694,22 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>mGODS - Monoclonal Gammopathies of Dermatological Signficance</title>
+      <link>/talk/gw_derm_resident_lecture_mgods-01-17-19/</link>
+      <pubDate>Thu, 17 Jan 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/gw_derm_resident_lecture_mgods-01-17-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Melanoma</title>
+      <link>/talk/harvard_derm_resident_lecture_melanoma-07-31-18/</link>
+      <pubDate>Tue, 31 Jul 2018 07:00:00 +0000</pubDate>
+      <guid>/talk/harvard_derm_resident_lecture_melanoma-07-31-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
@@ -701,6 +725,38 @@ $$&lt;/p&gt;
       <guid>/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Merkel Cell Carcinoma</title>
+      <link>/talk/columbia_derm_resident_lecture_mcc-05-18-18/</link>
+      <pubDate>Fri, 18 May 2018 13:00:00 +0000</pubDate>
+      <guid>/talk/columbia_derm_resident_lecture_mcc-05-18-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Melanoma</title>
+      <link>/talk/columbia_derm_resident_lecture_melanoma-05-18-18/</link>
+      <pubDate>Fri, 18 May 2018 11:00:00 +0000</pubDate>
+      <guid>/talk/columbia_derm_resident_lecture_melanoma-05-18-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Biology of Cutaneous Oncology</title>
+      <link>/talk/columbia_derm_resident_lecture_cancer_biology-05-18-18/</link>
+      <pubDate>Fri, 18 May 2018 09:30:00 +0000</pubDate>
+      <guid>/talk/columbia_derm_resident_lecture_cancer_biology-05-18-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mGODS - Monoclonal Gammopathies of Dermatological Signficance</title>
+      <link>/talk/columbia_derm_resident_lecture_mgods-05-18-18/</link>
+      <pubDate>Fri, 18 May 2018 08:00:00 +0000</pubDate>
+      <guid>/talk/columbia_derm_resident_lecture_mgods-05-18-18/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -5,12 +5,12 @@ address:
   country: United States
   postcode: "02114"
   region: MA
-  street: 55 Fruit Street
+  street: 50 Staniford St
 all_day: false
 authors: [David M. Miller MD, PhD, FAAD]
-date: "2019-08-23T08:00:00Z"
-date_end: "2019-08-23T08:30:00Z"
-event: Medical Education Program on Melanoma Management
+date: "2019-08-01T07:00:00Z"
+date_end: "2019-08-01T08:00:00Z"
+event: Harvard Dermatology Resident Lecture
 event_url: 
 featured: false
 image:
@@ -29,7 +29,7 @@ publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: 
 tags: []
-title: Diagnosis and Initial Dermatologic Management of Melanoma 
+title: Melanoma 
 url_code: ""
 url_pdf: ""
 url_slides: ""

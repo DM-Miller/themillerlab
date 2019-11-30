@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/Dave_M_Miller
-location: MIG Meeting
+location: Merkel Cell Carcinoma Interest Group Meeting, Washington DC
 math: true
 projects:
 - mcc-registry

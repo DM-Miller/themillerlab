@@ -8,9 +8,9 @@ address:
   street: 55 Staniford St. 
 all_day: false
 authors: [David M. Miller MD, PhD, FAAD]
-date: "2019-08-01T07:00:00Z"
-date_end: "2019-08-01T08:00:00Z"
-event: Harvard Dermatology Resident Lecture
+date: "2019-08-23T08:00:00Z"
+date_end: "2019-08-23T08:30:00Z"
+event: Medical Education Program on Melanoma Management
 event_url: 
 featured: false
 image:
@@ -29,7 +29,7 @@ publishDate: "2019-11-29T18:00:00Z"
 slides: 
 summary: 
 tags: []
-title: Melanoma 
+title: Diagnosis and Initial Management of Melanoma 
 url_code: ""
 url_pdf: ""
 url_slides: ""
