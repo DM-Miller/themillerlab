@@ -35,7 +35,7 @@ user_groups:
 
 **Sophia Shalhout PhD** joined the Miller Lab as the Cutaneous Oncology Research Fellow in 2019. She obtained her Ph.D. in Chemistry from Wayne State University where she studied the role of activation-induced deaminase (AID) in promoting lymphoma, and developed tools to study and quantify the type of DNA damage caused by aberrant AID  activity. The exploitation of AID-induced DNA damage led to the development of small molecule chemical probes to specifically target lymphoma cells. 
 
-She then did a postdoctoral fellowship in the Camargo lab, where she worked to develop novel small molecule modulators of the Hippo Pathway for applications in both regenerative medicine and chemotherapy. 
+She then did a postdoctoral fellowship at Boston Children's Hospital in the Camargo lab, where she worked to develop novel small molecule modulators of the Hippo Pathway for applications in both regenerative medicine and chemotherapy. 
 
-Her current work in the Miller Lab aims to identify biomarkers of response to therapies for Merkel cell carcinoma.  
+Dr. Shalhout is currently using her skills in Biology and Data Science in the Miller Lab  to identify biomarkers of response to therapies for Merkel cell carcinoma.  
 
