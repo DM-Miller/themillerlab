@@ -9,7 +9,7 @@ address:
 all_day: false
 authors: [David M. Miller MD, PhD, FAAD]
 date: "2019-04-02T09:00:00Z"
-date_end: "2019-02-07T10:00:00Z"
+date_end: "2019-04-02T10:00:00Z"
 event: Cutaneous Oncology Lecture Series
 event_url: 
 featured: false
