@@ -39,4 +39,4 @@ image = "books.jpg"
   
 # The Miller Lab
     
-Clinical and Translational Investigator in Cutaneous Oncology
+Clinical & Translational Investigators in Cutaneous Oncology
