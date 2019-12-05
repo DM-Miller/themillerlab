@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = ""
+title = "The Miller Lab"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "96_well_plate.jpg"
@@ -24,12 +24,13 @@ title = ""
   gradient_end = "#2b94c3"
   
 # Background image.
-image = "DNA_lamp.jpg"  
+image = "books.jpg"  
 # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_darken = 1.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
+  
 
 
 # Call to action links (optional).
@@ -38,6 +39,4 @@ image = "DNA_lamp.jpg"
 +++
   
   
-# The Miller Lab
-    
 Clinical & Translational Investigators in Cutaneous Oncology
