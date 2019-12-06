@@ -18,6 +18,56 @@
   </url>
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/biomarkers/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/cutaneous-oncology-research-fellow/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-science/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mcc-registry/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regulatory-medicine/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/clinical-trials/</loc>
     <lastmod>2019-11-28T00:00:00+00:00</lastmod>
   </url>
@@ -33,28 +83,8 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/data-science/</loc>
     <lastmod>2019-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/data-science/</loc>
-    <lastmod>2019-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-11-19T07:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -103,23 +133,8 @@
   </url>
   
   <url>
-    <loc>/tags/mcc-registry/</loc>
-    <lastmod>2019-08-20T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/harvard_derm_resident_lecture_melanoma-08-01-19/</loc>
     <lastmod>2019-08-01T07:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -140,16 +155,6 @@
   <url>
     <loc>/talk/unmc_5_7_19/</loc>
     <lastmod>2019-05-07T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regulatory-medicine/</loc>
-    <lastmod>2019-05-07T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/biomarkers/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -193,16 +198,6 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -225,16 +220,6 @@
   <url>
     <loc>/talk/harvard_derm_resident_lecture_melanoma-07-31-18/</loc>
     <lastmod>2018-07-31T07:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -268,26 +253,6 @@
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -318,36 +283,15 @@
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/fellows/</loc>
   </url>
   
   <url>
     <loc>/authors/students/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
   </url>
   
   <url>

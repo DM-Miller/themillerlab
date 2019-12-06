@@ -5,12 +5,25 @@
     <link>/tags/mcc-registry/</link>
       <atom:link href="/tags/mcc-registry/index.xml" rel="self" type="application/rss+xml" />
     <description>mcc-registry</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2019 09:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>mcc-registry</title>
       <link>/tags/mcc-registry/</link>
     </image>
+    
+    <item>
+      <title>Cutaneous Oncology Research Fellow</title>
+      <link>/post/cutaneous-oncology-research-fellow/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/post/cutaneous-oncology-research-fellow/</guid>
+      <description>&lt;p&gt;The Massachusetts General Hospital Cancer Center and the Department of Dermatology are offering a 1-2 year research fellowship in cutaneous oncology. This position will provide a unique experience in cutaneous oncology and will include roles in clinical investigation and translational research.&lt;/p&gt;
+
+&lt;p&gt;Please see the attached PDF for more information.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./CORF-post.pdf&#34; alt=&#34;pdf&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MCC Patient Registry</title>
