@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>Publications</title>
@@ -15,9 +15,45 @@
     <item>
       <title>Eczema Tvecium</title>
       <link>/publication/eczema-tvecium/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       <guid>/publication/eczema-tvecium/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/30454071&#34; target=&#34;_blank&#34;&gt;Link to Pubmed&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/30454071&#34; target=&#34;_blank&#34;&gt;Kaposi&amp;rsquo;s varicelliform eruption in a patient with metastatic melanoma and primary cutaneous anaplastic large cell lymphoma treated with talimogene laherparepvec and nivolumab.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Role of CDK7 in Melanoma</title>
+      <link>/publication/cdk7/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cdk7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/29408204&#34; target=&#34;_blank&#34;&gt;High MITF Expression Is Associated with Super-Enhancers and Suppressed by CDK7 Inhibition in Melanoma.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Complete Response in cSCC with Ipi/Nivo</title>
+      <link>/publication/cr-ipi-nivo-scc/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cr-ipi-nivo-scc/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/28932782&#34; target=&#34;_blank&#34;&gt;Complete pathologic response of metastatic cutaneous squamous cell carcinoma and allograft rejection after treatment with combination immune checkpoint blockade.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Somatic Driver Mutations in Melanoma</title>
+      <link>/publication/somatic-drivers-melanoma/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/somatic-drivers-melanoma/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/cncr.30593&#34; target=&#34;_blank&#34;&gt;Somatic driver mutations in melanoma.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A novel multi-CDK inhibitor in Melanoma</title>
+      <link>/publication/multi-cdk-inhibitor-in-melanoma/</link>
+      <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/multi-cdk-inhibitor-in-melanoma/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/26810603&#34; target=&#34;_blank&#34;&gt;A novel multi-CDK inhibitor P1446A-05 restricts melanoma growth and produces synergistic effects in combination with MAPK pathway inhibitors.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

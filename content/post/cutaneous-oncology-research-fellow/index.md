@@ -32,3 +32,6 @@ Please see the attached PDF for more information.
 
 ![pdf](./CORF-post.pdf)
 
+**Current Fellows**  
+- [Sophia Shalhout, PhD](https://www.themillerlab.io/authors/fellows/)
+![png](/img/SZS.png)

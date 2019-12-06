@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/</loc>
     <lastmod>2019-12-06T00:00:00+00:00</lastmod>
   </url>
@@ -48,27 +43,12 @@
   </url>
   
   <url>
-    <loc>/publication/eczema-tvecium/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/mcc-registry/</loc>
     <lastmod>2019-12-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2019-12-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -233,6 +213,26 @@
   </url>
   
   <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/eczema-tvecium/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/fda_oce_grand_rounds-10-22-18/</loc>
     <lastmod>2018-10-22T10:00:00+00:00</lastmod>
   </url>
@@ -240,6 +240,11 @@
   <url>
     <loc>/talk/harvard_derm_resident_lecture_melanoma-07-31-18/</loc>
     <lastmod>2018-07-31T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cdk7/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -275,6 +280,21 @@
   <url>
     <loc>/talk/columbia_derm_resident_lecture_mgods-05-18-18/</loc>
     <lastmod>2018-05-18T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cr-ipi-nivo-scc/</loc>
+    <lastmod>2017-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/somatic-drivers-melanoma/</loc>
+    <lastmod>2017-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/multi-cdk-inhibitor-in-melanoma/</loc>
+    <lastmod>2016-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
