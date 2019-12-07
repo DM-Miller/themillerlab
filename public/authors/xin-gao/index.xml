@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin Gao | The Miller Lab</title>
+    <link>/authors/xin-gao/</link>
+      <atom:link href="/authors/xin-gao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xin Gao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Dec 2017 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/MLab_logo_5.png</url>
+      <title>Xin Gao</title>
+      <link>/authors/xin-gao/</link>
+    </image>
+    
+    <item>
+      <title>No Claims No Gains - Why You Need to Know the Business Side of Medicine</title>
+      <link>/talk/bidmc_topics_in_oncology-12_14-17/</link>
+      <pubDate>Thu, 14 Dec 2017 08:00:00 +0000</pubDate>
+      <guid>/talk/bidmc_topics_in_oncology-12_14-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
