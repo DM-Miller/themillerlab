@@ -24,9 +24,10 @@ url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://www.ncbi.nlm.nih.gov/pubmed/30454071."
+url_source: "https://www.ncbi.nlm.nih.gov/pubmed/30454071"
 url_video: ""
 ---
 
 [Kaposi's varicelliform eruption in a patient with metastatic melanoma and primary cutaneous anaplastic large cell lymphoma treated with talimogene laherparepvec and nivolumab.](https://www.ncbi.nlm.nih.gov/pubmed/30454071)
 
+ 
