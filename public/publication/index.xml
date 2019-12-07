@@ -5,12 +5,21 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Clinical spectrum of cutaneous melanoma morphology.</title>
+      <link>/publication/clinical-spectrum-of-melanoma/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/clinical-spectrum-of-melanoma/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/30165162&#34; target=&#34;_blank&#34;&gt;Clinical spectrum of cutaneous melanoma morphology.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Eczema Tvecium</title>
@@ -54,6 +63,33 @@
       <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
       <guid>/publication/multi-cdk-inhibitor-in-melanoma/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/26810603&#34; target=&#34;_blank&#34;&gt;A novel multi-CDK inhibitor P1446A-05 restricts melanoma growth and produces synergistic effects in combination with MAPK pathway inhibitors.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Molecularly Targeted Therapies and Immunotherapies For Melanoma</title>
+      <link>/publication/review-of-molecularly-targeted-therapies-and-immunotherapies-for-melanoma/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/review-of-molecularly-targeted-therapies-and-immunotherapies-for-melanoma/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/25085663&#34; target=&#34;_blank&#34;&gt;Current status and future directions of molecularly targeted therapies and immunotherapies for melanoma.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CDKs as Therapeutic Targets in Melanoma</title>
+      <link>/publication/cdk-inhibotrs-in-melanoma/</link>
+      <pubDate>Tue, 17 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cdk-inhibotrs-in-melanoma/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/24405945&#34; target=&#34;_blank&#34;&gt;Cyclin-dependent kinases as therapeutic targets in melanoma.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Molecular testing in melanoma</title>
+      <link>/publication/molecular-testing-in-melanoma/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/molecular-testing-in-melanoma/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/24534656&#34; target=&#34;_blank&#34;&gt;Commentary: Molecular Testing in Melanoma.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

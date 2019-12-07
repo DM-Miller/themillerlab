@@ -214,21 +214,26 @@
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/eczema-tvecium/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <loc>/publication/clinical-spectrum-of-melanoma/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/eczema-tvecium/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -245,16 +250,6 @@
   <url>
     <loc>/publication/cdk7/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -295,6 +290,21 @@
   <url>
     <loc>/publication/multi-cdk-inhibitor-in-melanoma/</loc>
     <lastmod>2016-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/review-of-molecularly-targeted-therapies-and-immunotherapies-for-melanoma/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cdk-inhibotrs-in-melanoma/</loc>
+    <lastmod>2016-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/molecular-testing-in-melanoma/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
