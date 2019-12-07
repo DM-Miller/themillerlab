@@ -191,6 +191,14 @@
     </item>
     
     <item>
+      <title>2019 ASCO IO Abstracts Review</title>
+      <link>/talk/sanofi_expert_series/</link>
+      <pubDate>Mon, 07 Oct 2019 15:00:00 +0000</pubDate>
+      <guid>/talk/sanofi_expert_series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Project Data Sphere’s Mentoring Award in Oncology, Advanced Analytics and Regulatory Science</title>
       <link>/funding/pds-award/</link>
       <pubDate>Sun, 01 Sep 2019 09:30:00 +0000</pubDate>
@@ -334,6 +342,14 @@
       <link>/talk/harvard_derm_resident_lecture_sezary-02-15-19/</link>
       <pubDate>Fri, 15 Feb 2019 07:00:00 +0000</pubDate>
       <guid>/talk/harvard_derm_resident_lecture_sezary-02-15-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mGODS - Monoclonal Gammopathies Of Dermatological Significance</title>
+      <link>/talk/harvard_derm_resident_mgods-02-08-19/</link>
+      <pubDate>Fri, 08 Feb 2019 07:45:00 +0000</pubDate>
+      <guid>/talk/harvard_derm_resident_mgods-02-08-19/</guid>
       <description></description>
     </item>
     
@@ -519,6 +535,14 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Sezary Syndrome</title>
+      <link>/talk/gw_derm_resident_lecture_sezary-01-17-19/</link>
+      <pubDate>Thu, 17 Jan 2019 14:30:00 +0000</pubDate>
+      <guid>/talk/gw_derm_resident_lecture_sezary-01-17-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>mGODS - Monoclonal Gammopathies of Dermatological Signficance</title>
       <link>/talk/gw_derm_resident_lecture_mgods-01-17-19/</link>
       <pubDate>Thu, 17 Jan 2019 13:00:00 +0000</pubDate>
@@ -536,6 +560,30 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Reducing M&amp;M in M&amp;M - Strategies to improve Morbidity and Mortality in Melanoma and Merkel cell carcinoma</title>
+      <link>/talk/bidmc_grand_rounds_12_19-18/</link>
+      <pubDate>Wed, 19 Dec 2018 08:30:00 +0000</pubDate>
+      <guid>/talk/bidmc_grand_rounds_12_19-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDA Action in Cutaneous Oncology</title>
+      <link>/talk/columbia_derm_resident_regulatory_medicine-11-09-18/</link>
+      <pubDate>Fri, 09 Nov 2018 13:00:00 +0000</pubDate>
+      <guid>/talk/columbia_derm_resident_regulatory_medicine-11-09-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sezary Syndrome</title>
+      <link>/talk/columbia_derm_resident_lecture_sezary-11-09-18/</link>
+      <pubDate>Fri, 09 Nov 2018 09:00:00 +0000</pubDate>
+      <guid>/talk/columbia_derm_resident_lecture_sezary-11-09-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Eczema Tvecium</title>
       <link>/publication/eczema-tvecium/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
@@ -545,10 +593,34 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>PDS MCC Tumor Registry</title>
+      <link>/talk/fda_registries_task_force-10-22-18/</link>
+      <pubDate>Mon, 22 Oct 2018 12:00:00 +0000</pubDate>
+      <guid>/talk/fda_registries_task_force-10-22-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FDA Action in Cutaneous Oncology</title>
       <link>/talk/fda_oce_grand_rounds-10-22-18/</link>
       <pubDate>Mon, 22 Oct 2018 10:00:00 +0000</pubDate>
       <guid>/talk/fda_oce_grand_rounds-10-22-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PAMPs, DAMPs and Dermatology</title>
+      <link>/talk/columbia_derm_resident_lecture_innate_immunity-08-24-18/</link>
+      <pubDate>Fri, 24 Aug 2018 11:00:00 +0000</pubDate>
+      <guid>/talk/columbia_derm_resident_lecture_innate_immunity-08-24-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCRs, Tsubs and dHSRs - T-cell Immunity for the Dermatologist</title>
+      <link>/talk/columbia_derm_resident_lecture_t_cell_biology-08-24-18/</link>
+      <pubDate>Fri, 24 Aug 2018 09:00:00 +0000</pubDate>
+      <guid>/talk/columbia_derm_resident_lecture_t_cell_biology-08-24-18/</guid>
       <description></description>
     </item>
     
@@ -641,6 +713,14 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>PAMPs DAMPs and Dermatology - Innate Immunity for the Dermatologist</title>
+      <link>/talk/harvard_derm_resident_lecture_innate_immunity-05-08-18/</link>
+      <pubDate>Tue, 08 May 2018 09:30:00 +0000</pubDate>
+      <guid>/talk/harvard_derm_resident_lecture_innate_immunity-05-08-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>American Skin Association Research Grant</title>
       <link>/funding/asa/</link>
       <pubDate>Mon, 01 Jan 2018 09:30:00 +0000</pubDate>
@@ -654,6 +734,22 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>mGODS - Monoclonal Gammopathies Of Dermatological Significance</title>
+      <link>/talk/harvard_derm_resident_mgods-12-19-17/</link>
+      <pubDate>Tue, 19 Dec 2017 09:30:00 +0000</pubDate>
+      <guid>/talk/harvard_derm_resident_mgods-12-19-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sezary Syndrome</title>
+      <link>/talk/harvard_derm_resident_lecture_sezary-11-21-17/</link>
+      <pubDate>Tue, 21 Nov 2017 10:30:00 +0000</pubDate>
+      <guid>/talk/harvard_derm_resident_lecture_sezary-11-21-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Complete Response in cSCC with Ipi/Nivo</title>
       <link>/publication/cr-ipi-nivo-scc/</link>
       <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
@@ -663,12 +759,28 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Sezary Syndrome</title>
+      <link>/talk/harvard_derm_resident_lecture_sezary-05-30-17/</link>
+      <pubDate>Tue, 30 May 2017 11:00:00 +0000</pubDate>
+      <guid>/talk/harvard_derm_resident_lecture_sezary-05-30-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Somatic Driver Mutations in Melanoma</title>
       <link>/publication/somatic-drivers-melanoma/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       <guid>/publication/somatic-drivers-melanoma/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/cncr.30593&#34; target=&#34;_blank&#34;&gt;Somatic driver mutations in melanoma.&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>mGODS - Monoclonal Gammopathies Of Dermatological Significance</title>
+      <link>/talk/harvard_derm_resident_mgods-01-31-17/</link>
+      <pubDate>Tue, 31 Jan 2017 10:00:00 +0000</pubDate>
+      <guid>/talk/harvard_derm_resident_mgods-01-31-17/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -720,6 +832,22 @@ $$&lt;/p&gt;
 &lt;p&gt;We are evaluating the evolving landscape of regulatory medicine in Cutaneous Oncology and Dermatology&lt;/p&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Melanoma</title>
+      <link>/talk/columbia_derm_resident_lecture_melanoma-03-27-15/</link>
+      <pubDate>Fri, 27 Mar 2015 09:00:00 +0000</pubDate>
+      <guid>/talk/columbia_derm_resident_lecture_melanoma-03-27-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biology of Keratinocytes</title>
+      <link>/talk/columbia_derm_resident_lecture_keratinocyte_biology-01-28-15/</link>
+      <pubDate>Wed, 28 Jan 2015 15:30:00 +0000</pubDate>
+      <guid>/talk/columbia_derm_resident_lecture_keratinocyte_biology-01-28-15/</guid>
+      <description></description>
     </item>
     
     <item>

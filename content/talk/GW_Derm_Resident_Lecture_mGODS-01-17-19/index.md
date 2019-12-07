@@ -7,7 +7,8 @@ address:
   region: Distric of Columbia
   street: 22 & I Street NW
 all_day: false
-authors: [David M. Miller MD, PhD, FAAD]
+authors: 
+- admin
 date: "2019-01-17T13:00:00Z"
 date_end: "2019-01-17T14:30:00Z"
 event: George Washington University School of Medicine Dermatology Resident Lecture
