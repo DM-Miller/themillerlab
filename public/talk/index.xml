@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2019 07:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2019 09:45:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>A Case of Bimodality Therapy for Merkel Cell Carcinoma</title>
+      <link>/talk/mgh_cutaneous_oncology_tumor_board-12_03_19/</link>
+      <pubDate>Tue, 03 Dec 2019 09:45:00 +0000</pubDate>
+      <guid>/talk/mgh_cutaneous_oncology_tumor_board-12_03_19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clinical Investigation in cSCC - Updates from ASCO and ESMO</title>

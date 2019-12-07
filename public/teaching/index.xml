@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings | The Miller Lab</title>
+    <link>/teaching/</link>
+      <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teachings</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 May 2018 09:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/MLab_logo_5.png</url>
+      <title>Teachings</title>
+      <link>/teaching/</link>
+    </image>
+    
+    <item>
+      <title>The Biology of Cutaneous Oncology</title>
+      <link>/teaching/columbia_derm_resident_lecture_cancer_biology-05-18-18/</link>
+      <pubDate>Fri, 18 May 2018 09:30:00 +0000</pubDate>
+      <guid>/teaching/columbia_derm_resident_lecture_cancer_biology-05-18-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

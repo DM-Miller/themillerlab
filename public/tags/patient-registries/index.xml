@@ -5,12 +5,25 @@
     <link>/tags/patient-registries/</link>
       <atom:link href="/tags/patient-registries/index.xml" rel="self" type="application/rss+xml" />
     <description>Patient Registries</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2019 18:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 09:30:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>Patient Registries</title>
       <link>/tags/patient-registries/</link>
     </image>
+    
+    <item>
+      <title>Project Data Sphere’s Mentoring Award in Oncology, Advanced Analytics and Regulatory Science</title>
+      <link>/funding/pds-award/</link>
+      <pubDate>Sun, 01 Sep 2019 09:30:00 +0000</pubDate>
+      <guid>/funding/pds-award/</guid>
+      <description>
+
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;The Merkel Cell Carcinoma Patient Registry is a multi-institutional collaborative effort that is collecting data on outcomes and events in MCC patients. MCC is the prototypical rare tumor, and this Registry aims to develop new methodologies that will enable investigators to examine real world data in real time. Deliverables from the Registry include: (i) precise patient risk stratification, (ii) real-world data for drug development programs, (iii) identification of optimal sequence and combinations therapies, (iv) uncovering low-incidence toxicities and (v) revelations about best practices, (vi) and the generation of novel testable hypotheses.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Project Data Sphere &amp; MCC patient Registry- From Promise to Prototype to Patient</title>
