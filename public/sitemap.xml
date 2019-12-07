@@ -338,16 +338,6 @@
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/meei_grand_rounds-06_14_18/</loc>
     <lastmod>2018-06-14T07:00:00+00:00</lastmod>
   </url>
@@ -403,6 +393,11 @@
   </url>
   
   <url>
+    <loc>/talk/bidmc_journal_club_10-31-17/</loc>
+    <lastmod>2017-10-31T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/cr-ipi-nivo-scc/</loc>
     <lastmod>2017-09-08T00:00:00+00:00</lastmod>
   </url>
@@ -415,6 +410,11 @@
   <url>
     <loc>/publication/somatic-drivers-melanoma/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/bidmc_journal_club_05-02-17/</loc>
+    <lastmod>2017-05-02T08:00:00+00:00</lastmod>
   </url>
   
   <url>
