@@ -23,17 +23,12 @@
   </url>
   
   <url>
+    <loc>/authors/sophia-shalhout/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/biomarkers/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/cutaneous-oncology-research-fellow/</loc>
     <lastmod>2019-12-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,17 +38,7 @@
   </url>
   
   <url>
-    <loc>/tags/mcc-registry/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regulatory-medicine/</loc>
     <lastmod>2019-12-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,12 +53,37 @@
   </url>
   
   <url>
-    <loc>/talk/mgh_cutaneous_oncology_tumor_board-12_03_19/</loc>
+    <loc>/post/website-development-using-r/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/biomarkers/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/cutaneous-oncology-research-fellow/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mcc-registry/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regulatory-medicine/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/farees-saqlain/</loc>
     <lastmod>2019-12-03T09:45:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/farees-saqlain-msiv/</loc>
+    <loc>/talk/mgh_cutaneous_oncology_tumor_board-12_03_19/</loc>
     <lastmod>2019-12-03T09:45:00+00:00</lastmod>
   </url>
   
@@ -109,17 +119,17 @@
   
   <url>
     <loc>/authors/david-m.-miller-md/</loc>
-    <lastmod>2019-11-19T07:00:00+00:00</lastmod>
+    <lastmod>2019-10-21T16:30:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/faad/</loc>
-    <lastmod>2019-11-19T07:00:00+00:00</lastmod>
+    <lastmod>2019-10-21T16:30:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/phd/</loc>
-    <lastmod>2019-11-19T07:00:00+00:00</lastmod>
+    <lastmod>2019-10-21T16:30:00+00:00</lastmod>
   </url>
   
   <url>
@@ -383,6 +393,11 @@
   </url>
   
   <url>
+    <loc>/funding/ada-fellowship/</loc>
+    <lastmod>2005-07-01T09:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/jellypin/</loc>
     <lastmod>2004-09-21T00:00:00+00:00</lastmod>
   </url>
@@ -390,14 +405,6 @@
   <url>
     <loc>/publication/the-serpin-sqn-5-is-a-dual-mechanistic-class-inhibitor-of-serine-and-cysteine-proteinases/</loc>
     <lastmod>2002-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/fellows/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/students/</loc>
   </url>
   
   <url>

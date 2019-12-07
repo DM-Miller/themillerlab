@@ -17,7 +17,7 @@ projects:
 - data-science
 - mcc-registry
 subtitle: 
-summary: 
+summary: A fellowship at MGH in Skin Cancer research 
 tags: 
 - regulatory-medicine
 - biomarkers

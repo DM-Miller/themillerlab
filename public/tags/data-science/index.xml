@@ -5,12 +5,33 @@
     <link>/tags/data-science/</link>
       <atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <description>data-science</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>data-science</title>
       <link>/tags/data-science/</link>
     </image>
+    
+    <item>
+      <title>Website Development With R</title>
+      <link>/post/website-development-using-r/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/post/website-development-using-r/</guid>
+      <description>
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This working document is a rough user guide on how to create a website using R via a package called &lt;code&gt;blogdown&lt;/code&gt;. It will also walk you through opening in account on Netlify, which will host your website.&lt;/li&gt;
+&lt;li&gt;There are numerous resources for webpage development, including an amazing bookdown called &amp;ldquo;blogdown: Creating Websites with R Markdown&amp;rdquo; (&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;https://bookdown.org/yihui/blogdown/&lt;/a&gt;). We&amp;rsquo;ve created this resource as we have tried to provide details and pearls that we struggled with and we belive these may be helpful to others.&lt;/li&gt;
+&lt;li&gt;This is a ongoing, &amp;lsquo;living&amp;rsquo; document that is constantly being edited and expanded. Please provide comments to allow us to optimize this document for all R users.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;please-see-the-attached-pdf-for-more-information&#34;&gt;Please see the attached PDF for more information.&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;./Website_Development_in_R.pdf&#34; alt=&#34;pdf&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cutaneous Oncology Research Fellow</title>

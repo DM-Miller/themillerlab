@@ -1,6 +1,6 @@
 ---
 authors:
-- Researchers
+- Sophia-Shalhout
 bio: My research interests include clinical and translational research in advanced skin cancers.
 education:
   courses:

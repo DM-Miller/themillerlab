@@ -12,7 +12,7 @@ featured: false
 image:
   caption: 
   focal_point: Right
-location: Columbia University Medical Center
+location: 
 math: true
 projects:
 - clinical-trials

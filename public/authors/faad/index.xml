@@ -5,20 +5,12 @@
     <link>/authors/faad/</link>
       <atom:link href="/authors/faad/index.xml" rel="self" type="application/rss+xml" />
     <description>FAAD</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2019 07:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2019 16:30:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>FAAD</title>
       <link>/authors/faad/</link>
     </image>
-    
-    <item>
-      <title>Clinical Investigation in cSCC - Updates from ASCO and ESMO</title>
-      <link>/talk/mgh_meei_nmsc_program_research_meeting-11_19_19/</link>
-      <pubDate>Tue, 19 Nov 2019 07:00:00 +0000</pubDate>
-      <guid>/talk/mgh_meei_nmsc_program_research_meeting-11_19_19/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Project Data Sphere and Ongoing Multi-Institutional Database Efforts</title>
@@ -165,26 +157,10 @@
     </item>
     
     <item>
-      <title>Merkel Cell Carcinoma</title>
-      <link>/talk/columbia_derm_resident_lecture_mcc-05-18-18/</link>
-      <pubDate>Fri, 18 May 2018 13:00:00 +0000</pubDate>
-      <guid>/talk/columbia_derm_resident_lecture_mcc-05-18-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Introduction to Melanoma</title>
       <link>/talk/columbia_derm_resident_lecture_melanoma-05-18-18/</link>
       <pubDate>Fri, 18 May 2018 11:00:00 +0000</pubDate>
       <guid>/talk/columbia_derm_resident_lecture_melanoma-05-18-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Biology of Cutaneous Oncology</title>
-      <link>/talk/columbia_derm_resident_lecture_cancer_biology-05-18-18/</link>
-      <pubDate>Fri, 18 May 2018 09:30:00 +0000</pubDate>
-      <guid>/talk/columbia_derm_resident_lecture_cancer_biology-05-18-18/</guid>
       <description></description>
     </item>
     

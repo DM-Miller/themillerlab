@@ -7,7 +7,8 @@ address:
   region: MA
   street: 185 Cambridge Street
 all_day: false
-authors: [David M. Miller MD, PhD, FAAD]
+authors: 
+- admin
 date: "2019-11-19T07:00:00Z"
 date_end: "2019-11-19T08:00:00Z"
 event: MGH-MEEI NMSC Program Research Meeting

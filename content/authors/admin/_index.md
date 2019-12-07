@@ -31,7 +31,7 @@ interests:
 - Advanced Skin Cancer
 - Data Science
 - R
-name: David Michael Miller
+name: David Michael Miller 
 organizations:
 - name: Massachusetts General Hospital
   url: ""

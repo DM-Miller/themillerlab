@@ -7,7 +7,8 @@ address:
   region: NY
   street: 630 West 168th STreet
 all_day: false
-authors: [David M. Miller MD, PhD, FAAD]
+authors: 
+- admin
 date: "2018-05-18T09:30:00Z"
 date_end: "2018-05-18T11:00:00Z"
 event: Columbia University Medical Center Dermatology Resident Lecture

@@ -1,6 +1,6 @@
 ---
 authors:
-- Students
+- Farees-Saqlain
 bio: My research interests include clinical and translational research in advanced skin cancers.
 education:
   courses:
@@ -21,7 +21,8 @@ superuser: false
 user_groups:
 - Students
 ---
+**Farees Saqlain MSIV** is a medical student at Harvard Medical School (HMS). Farees is participating in the Scholars in Medicine Program at HMS and conducting his research in the Miller lab. His research is focused on evaluating the natural history of Merkel Cell carcinoma. 
 
+**Links To Recent Talks By Farees Saqlain**  
 
-
-<p><strong>Farees Saqlain MSIV</strong> is a medical student at Harvard Medical School (HMS). Farees is participating in the Scholars in Medicine Program at HMS and conducting his research in the Miller lab. His research is focused on evaluating the natural history of Merkel Cell carcinoma.</p>
+- [MGH Cutaneous Oncology Tumor Board](https://www.themillerlab.io/talk/mgh_cutaneous_oncology_tumor_board-12_03_19/)  
