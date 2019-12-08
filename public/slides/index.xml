@@ -5,7 +5,73 @@
     <link>/slides/</link>
       <atom:link href="/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Melanoma - Pathogenesis, Diagnosis and Work Up</title>
+      <link>/slides/melanoma_12_13_19/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/melanoma_12_13_19/</guid>
+      <description>
+
+&lt;h1 id=&#34;melanoma&#34;&gt;Melanoma&lt;/h1&gt;
+
+&lt;h2 id=&#34;pathogenesis-diagnosis-and-work-up&#34;&gt;Pathogenesis, Diagnosis and Work Up&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;learning-objective&#34;&gt;Learning Objective&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Review basic epidemiology of melanoma&lt;/li&gt;
+&lt;li&gt;Review molecular mechanisms of melanoma&lt;/li&gt;
+&lt;li&gt;Discuss risk factors for melanoma&lt;/li&gt;
+&lt;li&gt;Review how to evaluate and stage patients&lt;/li&gt;
+&lt;li&gt;Overview of management of melanoma&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;epidemiology&#34;&gt;Epidemiology&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1:25 Americans will get some kind of melanoma in their lifetime&lt;/li&gt;
+&lt;li&gt;1:52 Americans will get an invasive melanoma in their lifetime&lt;/li&gt;
+&lt;li&gt;Estimated to be 96,480 newly diagnosed cases of invasive melanoma in the U.S. in 2019
+
+&lt;ul&gt;
+&lt;li&gt;95,830 cases of melanoma in situ&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Between 9,000-10,000 deaths annually&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;pathogenesis&#34;&gt;Pathogenesis&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./melanoma-pathways.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./cell-cycle.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
     <item>
       <title>Slides</title>
       <link>/slides/example/</link>
