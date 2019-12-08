@@ -85,7 +85,12 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
 ## Legend for Melanoma Pathways Figure (cont.)  
 
 - RAS is downregulated by GTPase-activating proteins such as NF1, which facilitates the hydrolysis of GTP to GDP. Conversely, GEFs stimulate the release of GDP to allow for binding of GTP by RAS and subsequent activation. 
-- Legend for Cycle-Cycle Figure is from: Miller DM, Flaherty KT. Pigment Cell Melanoma Research. 2014 May;27(3):351-65
+
+---
+
+## Citation  
+
+- Legend for Melanoma Pathways Figure is from: Miller DM, Flaherty KT. Pigment Cell Melanoma Research. 2014 May;27(3):351-65
 
 ---
 {{< slide background-image="./cell-cycle.jpg" >}}
@@ -113,13 +118,65 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
 
 - RB is further phosphorylated in late G1 by cyclin E–CDK2 complexes, enabling E2F transcription factors to express genes required for DNA synthesis. After entry into the S phase, a hyperphosphorylated state of RB is maintained by the activities of cyclin A–CDK2, cyclin A–CDK1 and cyclin B–CDK1 complexes. 
 
----
+--- 
+
 ## Legend for Cycle Cycle Figure (cont.)  
 
 - At the end of mitosis RB proteins are dephosphorylated by phosphatases allowing recombination with E2F and DP to prevent unregulated cell proliferation. The cell cycle is negatively regulated by members of the INK4 (p15, p16) and CIP/KIP families (p21CIP1 and p27KIP1) 
+
+---
+
+
+## Citation  
+
+- Legend for Cycle-Cycle Figure is from: Miller DM, Flaherty KT. Pigment Cell Melanoma Research. 2014 May;27(3):351-65
+
+---
+
+{{< slide background-image="./senescence.pdf" >}} 
+ 
+--- 
+
+## Legend For Senescence Pathways Figure  
+
+- The cellular senescence program can be initiated via several pathway outputs that utilize common effector molecules.  
+- While the mechanisms governing senescence have yet to be fully described, telomere shortening is believed to trigger cellular arrest by activating INK4a-RB signaling and the p53-p21 pathway via molecules such as ATM, ATR and CHK2.
+
+---  
+
+## Legend For Senescence Pathways Figure (cont.)  
+
+- Permanent inactivation of CDKs can also occur downstream of the DNA damage response (DDR), which can be triggered by a variety of genotoxic stimuli including ultraviolet (UV) radiation, reactive oxygen species (ROS) and hyper-replicative DNA (HRD).  
+  
+  
+---
+  
+## Legend For Senescence Pathways Figure (cont.)   
+ 
+- The DDR stimulates INK4a-mediated inhibition of CDK4/6 and the p53-p21 pathway in part via ARF inhibition of MDM2-mediated ubiquitination of p53 and activation of ATM. 
+
+---
+
+## Legend For Senescence Pathways Figure (Cont.)  
+
+- Activation of INK4a inhibits the CDK4/ 6-mediated activation of FOXM1, which antagonizes ROS-mediated DNA damage.  
+- The senescence cascade is also activated in certain contexts of persistent mitogenic stimulation, such as constitutive activation of RAS or RAF proteins (referred to as oncogene-induced senescence (OIS).  
+
+---
+
+## Legend For Senescence Pathways Figure (Cont.)  
+
+- OIS involves p38 MAPK and activates RB and p53 via HBP1 and PRAK, respectively  
+-  Active RB contributes to formation of senescence-associated heterochromatin foci (SAHF), and this heterochromatization of DNA precludes transcription of E2F target genes, contributing to the overall state of irreversible cell-cycle arrest. 
+
+---
+
+## Citation
+  
 - Legend for Cycle-Cycle Figure is from: Miller DM, Flaherty KT. Pigment Cell Melanoma Research. 2014 May;27(3):351-65
 
 --- 
+
 ### Susceptibility to Cutaneous Malignant Melanoma (CMM)
 - CMM1 has been mapped to chromosome 1p36. 
 - CMM2 – CDKN2A (9p21)
@@ -133,6 +190,62 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
 - CMM10 – POT1 (7q31) 
 
 ---
+ 
 {{< slide background-image="./CDKN2A.jpg" >}}
 
 ---
+  
+{{< slide background-image="./Tx-strategies.pdf" >}}
+
+---
+  
+{{< slide background-image="./Approved-Tx-1.pdf" >}}
+
+---
+  
+{{< slide background-image="./CIT.pdf" >}}
+   
+  
+---
+
+## Legend for Immuntherapy Figure
+
+- T-cell activation results from the summation of several activating signals. 
+- These include stimulation of the T-cell receptor (TCR) by an antigen complexed with the major histocompatibility complex (MHC) and CD28 by CD80 or CD86 (CD80/86).  
+
+---
+
+## Legend for Immuntherapy Figure (cont.)
+
+- Of note, MHC class I molecules activate CD8+-T cells, while MHC class II molecules are recognized by CD4+-T cells. T-cell activation and function are tightly calibrated by regulatory mechanisms to prevent autoimmunity and excessive tissue inflammation. 
+- T-cell activation is negatively regulated by CTLA4, which not only competes with CD28 for CD80 and CD86, but can also transmit inhibitory signals that attenuate activation. 
+
+---
+
+## Legend for Immuntherapy Figure (cont.)
+
+- In peripheral tissues, ligation of the program death-1 (PD-1) receptor by PD-L1 inhibits effector functions of T-cells. 
+- PD-L1 is expressed on both antigen-presenting cells, such as macrophages, and malignant melanocytes. 
+
+---
+
+## Legend for Immuntherapy Figure (cont.)
+
+- Monoclonal antibodies directed against CTLA-4 (ipilimumab), PD-1 (nivolumab and Pembrolizumab) and PD-L1 (Avelumab/Atezolizumb; of note, neither are approved for melanoma, but are approved for other malignancies) can overcome intrinsic immune checkpoints by licensing tumor-specific T cells.
+
+---
+
+## Citation for Immuntherapy Figure 
+
+- Miller D,  Flaherty K, and Tsao H. Seminars in Cutaneous Medicine and Surgery, Vol. 33, June 2014 
+
+---
+
+{{< slide background-image="./Stage-3-Tx.pdf" >}}
+
+---
+
+{{< slide background-image="./Tx-Metastatic-Dz.pdf" >}}
+
+---
+
