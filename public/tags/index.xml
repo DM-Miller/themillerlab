@@ -5,12 +5,20 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>regulatory-medicine</title>
+      <link>/tags/regulatory-medicine/</link>
+      <pubDate>Fri, 13 Dec 2019 13:00:00 +0000</pubDate>
+      <guid>/tags/regulatory-medicine/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>data-science</title>
@@ -33,14 +41,6 @@
       <link>/tags/mcc-registry/</link>
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/tags/mcc-registry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regulatory-medicine</title>
-      <link>/tags/regulatory-medicine/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/regulatory-medicine/</guid>
       <description></description>
     </item>
     

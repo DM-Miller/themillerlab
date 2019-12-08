@@ -5,12 +5,20 @@
     <link>/tags/regulatory-medicine/</link>
       <atom:link href="/tags/regulatory-medicine/index.xml" rel="self" type="application/rss+xml" />
     <description>regulatory-medicine</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>regulatory-medicine</title>
       <link>/tags/regulatory-medicine/</link>
     </image>
+    
+    <item>
+      <title>The Evolving Landscape of Regulatory Medicine in Cutaneous Oncology</title>
+      <link>/talk/cumc_derm_lecture_regulatory_medicine-12-13-19/</link>
+      <pubDate>Fri, 13 Dec 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/cumc_derm_lecture_regulatory_medicine-12-13-19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cutaneous Oncology Research Fellow</title>

@@ -1,6 +1,10 @@
 {
-    "path" : "~/Dropbox (Partners HealthCare)/mLab/The Miller Lab Website/content/publication/Eczema-Tvecium",
+    "path" : "~/Dropbox (Partners HealthCare)/mLab/The Miller Lab Website/content/talk/BIDMC_Journal_Club_05-02-17",
     "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 3
+        },
         {
             "ascending" : true,
             "columnIndex" : 2

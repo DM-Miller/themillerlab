@@ -19,16 +19,46 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sophia-shalhout/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-13T13:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2019-12-13T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-12-13T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regulatory-medicine/</loc>
+    <lastmod>2019-12-13T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-13T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/cumc_derm_lecture_regulatory_medicine-12-13-19/</loc>
+    <lastmod>2019-12-13T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-12-13T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/cumc_derm_lecture_melanoma-12-13-19/</loc>
+    <lastmod>2019-12-13T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sophia-shalhout/</loc>
     <lastmod>2019-12-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,16 +69,6 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2019-12-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,22 +93,12 @@
   </url>
   
   <url>
-    <loc>/tags/regulatory-medicine/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/farees-saqlain/</loc>
     <lastmod>2019-12-03T09:45:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/mgh_cutaneous_oncology_tumor_board-12_03_19/</loc>
-    <lastmod>2019-12-03T09:45:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2019-12-03T09:45:00+00:00</lastmod>
   </url>
   
@@ -288,12 +298,12 @@
   </url>
   
   <url>
-    <loc>/talk/columbia_derm_resident_regulatory_medicine-11-09-18/</loc>
+    <loc>/talk/cumc_derm_lecture_regulatory_medicine-11-09-18/</loc>
     <lastmod>2018-11-09T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/columbia_derm_resident_lecture_sezary-11-09-18/</loc>
+    <loc>/talk/cumc_derm_lecture_sezary-11-09-18/</loc>
     <lastmod>2018-11-09T09:00:00+00:00</lastmod>
   </url>
   
@@ -313,12 +323,12 @@
   </url>
   
   <url>
-    <loc>/talk/columbia_derm_resident_lecture_innate_immunity-08-24-18/</loc>
+    <loc>/talk/cumc_derm_lecture_innate_immunity-08-24-18/</loc>
     <lastmod>2018-08-24T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/columbia_derm_resident_lecture_t_cell_biology-08-24-18/</loc>
+    <loc>/talk/cumc_derm_lecture_t_cell_biology-08-24-18/</loc>
     <lastmod>2018-08-24T09:00:00+00:00</lastmod>
   </url>
   
@@ -343,22 +353,22 @@
   </url>
   
   <url>
-    <loc>/talk/columbia_derm_resident_lecture_mcc-05-18-18/</loc>
+    <loc>/talk/cumc_derm_lecture_mcc-05-18-18/</loc>
     <lastmod>2018-05-18T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/columbia_derm_resident_lecture_melanoma-05-18-18/</loc>
+    <loc>/talk/cumc_derm_lecture_melanoma-05-18-18/</loc>
     <lastmod>2018-05-18T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/columbia_derm_resident_lecture_cancer_biology-05-18-18/</loc>
+    <loc>/talk/cumc_derm_lecture_cancer_biology-05-18-18/</loc>
     <lastmod>2018-05-18T09:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/columbia_derm_resident_lecture_mgods-05-18-18/</loc>
+    <loc>/talk/cumc_derm_lecture_mgods-05-18-18/</loc>
     <lastmod>2018-05-18T08:00:00+00:00</lastmod>
   </url>
   
@@ -498,12 +508,12 @@
   </url>
   
   <url>
-    <loc>/talk/columbia_derm_resident_lecture_melanoma-03-27-15/</loc>
+    <loc>/talk/cumc_derm_lecture_melanoma-03-27-15/</loc>
     <lastmod>2015-03-27T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/columbia_derm_resident_lecture_keratinocyte_biology-01-28-15/</loc>
+    <loc>/talk/cumc_derm_lecture_keratinocyte_biology-01-28-15/</loc>
     <lastmod>2015-01-28T15:30:00+00:00</lastmod>
   </url>
   

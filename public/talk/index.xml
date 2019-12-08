@@ -5,12 +5,28 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2019 09:45:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>The Evolving Landscape of Regulatory Medicine in Cutaneous Oncology</title>
+      <link>/talk/cumc_derm_lecture_regulatory_medicine-12-13-19/</link>
+      <pubDate>Fri, 13 Dec 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/cumc_derm_lecture_regulatory_medicine-12-13-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melanoma - Pathogenesis, Clinical Features, Diagnosis and Management</title>
+      <link>/talk/cumc_derm_lecture_melanoma-12-13-19/</link>
+      <pubDate>Fri, 13 Dec 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/cumc_derm_lecture_melanoma-12-13-19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Case of Bimodality Therapy for Merkel Cell Carcinoma</title>
@@ -190,17 +206,17 @@
     
     <item>
       <title>FDA Action in Cutaneous Oncology</title>
-      <link>/talk/columbia_derm_resident_regulatory_medicine-11-09-18/</link>
+      <link>/talk/cumc_derm_lecture_regulatory_medicine-11-09-18/</link>
       <pubDate>Fri, 09 Nov 2018 13:00:00 +0000</pubDate>
-      <guid>/talk/columbia_derm_resident_regulatory_medicine-11-09-18/</guid>
+      <guid>/talk/cumc_derm_lecture_regulatory_medicine-11-09-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sezary Syndrome</title>
-      <link>/talk/columbia_derm_resident_lecture_sezary-11-09-18/</link>
+      <link>/talk/cumc_derm_lecture_sezary-11-09-18/</link>
       <pubDate>Fri, 09 Nov 2018 09:00:00 +0000</pubDate>
-      <guid>/talk/columbia_derm_resident_lecture_sezary-11-09-18/</guid>
+      <guid>/talk/cumc_derm_lecture_sezary-11-09-18/</guid>
       <description></description>
     </item>
     
@@ -222,17 +238,17 @@
     
     <item>
       <title>PAMPs, DAMPs and Dermatology</title>
-      <link>/talk/columbia_derm_resident_lecture_innate_immunity-08-24-18/</link>
+      <link>/talk/cumc_derm_lecture_innate_immunity-08-24-18/</link>
       <pubDate>Fri, 24 Aug 2018 11:00:00 +0000</pubDate>
-      <guid>/talk/columbia_derm_resident_lecture_innate_immunity-08-24-18/</guid>
+      <guid>/talk/cumc_derm_lecture_innate_immunity-08-24-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TCRs, Tsubs and dHSRs - T-cell Immunity for the Dermatologist</title>
-      <link>/talk/columbia_derm_resident_lecture_t_cell_biology-08-24-18/</link>
+      <link>/talk/cumc_derm_lecture_t_cell_biology-08-24-18/</link>
       <pubDate>Fri, 24 Aug 2018 09:00:00 +0000</pubDate>
-      <guid>/talk/columbia_derm_resident_lecture_t_cell_biology-08-24-18/</guid>
+      <guid>/talk/cumc_derm_lecture_t_cell_biology-08-24-18/</guid>
       <description></description>
     </item>
     
@@ -254,33 +270,33 @@
     
     <item>
       <title>Merkel Cell Carcinoma</title>
-      <link>/talk/columbia_derm_resident_lecture_mcc-05-18-18/</link>
+      <link>/talk/cumc_derm_lecture_mcc-05-18-18/</link>
       <pubDate>Fri, 18 May 2018 13:00:00 +0000</pubDate>
-      <guid>/talk/columbia_derm_resident_lecture_mcc-05-18-18/</guid>
+      <guid>/talk/cumc_derm_lecture_mcc-05-18-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to Melanoma</title>
-      <link>/talk/columbia_derm_resident_lecture_melanoma-05-18-18/</link>
+      <link>/talk/cumc_derm_lecture_melanoma-05-18-18/</link>
       <pubDate>Fri, 18 May 2018 11:00:00 +0000</pubDate>
-      <guid>/talk/columbia_derm_resident_lecture_melanoma-05-18-18/</guid>
+      <guid>/talk/cumc_derm_lecture_melanoma-05-18-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Biology of Cutaneous Oncology</title>
-      <link>/talk/columbia_derm_resident_lecture_cancer_biology-05-18-18/</link>
+      <link>/talk/cumc_derm_lecture_cancer_biology-05-18-18/</link>
       <pubDate>Fri, 18 May 2018 09:30:00 +0000</pubDate>
-      <guid>/talk/columbia_derm_resident_lecture_cancer_biology-05-18-18/</guid>
+      <guid>/talk/cumc_derm_lecture_cancer_biology-05-18-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mGODS - Monoclonal Gammopathies of Dermatological Signficance</title>
-      <link>/talk/columbia_derm_resident_lecture_mgods-05-18-18/</link>
+      <link>/talk/cumc_derm_lecture_mgods-05-18-18/</link>
       <pubDate>Fri, 18 May 2018 08:00:00 +0000</pubDate>
-      <guid>/talk/columbia_derm_resident_lecture_mgods-05-18-18/</guid>
+      <guid>/talk/cumc_derm_lecture_mgods-05-18-18/</guid>
       <description></description>
     </item>
     
@@ -430,17 +446,17 @@
     
     <item>
       <title>Melanoma</title>
-      <link>/talk/columbia_derm_resident_lecture_melanoma-03-27-15/</link>
+      <link>/talk/cumc_derm_lecture_melanoma-03-27-15/</link>
       <pubDate>Fri, 27 Mar 2015 09:00:00 +0000</pubDate>
-      <guid>/talk/columbia_derm_resident_lecture_melanoma-03-27-15/</guid>
+      <guid>/talk/cumc_derm_lecture_melanoma-03-27-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biology of Keratinocytes</title>
-      <link>/talk/columbia_derm_resident_lecture_keratinocyte_biology-01-28-15/</link>
+      <link>/talk/cumc_derm_lecture_keratinocyte_biology-01-28-15/</link>
       <pubDate>Wed, 28 Jan 2015 15:30:00 +0000</pubDate>
-      <guid>/talk/columbia_derm_resident_lecture_keratinocyte_biology-01-28-15/</guid>
+      <guid>/talk/cumc_derm_lecture_keratinocyte_biology-01-28-15/</guid>
       <description></description>
     </item>
     
