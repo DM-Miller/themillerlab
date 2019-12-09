@@ -37,6 +37,190 @@
     </item>
     
     <item>
+      <title>Merkel Cell Carcinoma - Current Concepts in Diagnosis and Management</title>
+      <link>/slides/odac_mcc-1-17-20/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/odac_mcc-1-17-20/</guid>
+      <description>
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Intro-Slide.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Disclosures.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Learning-Objectives.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Melanoma-Approvals.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Therapeutic Updates in Melanoma - IO for Earlier Stage Disease</title>
+      <link>/slides/odac_melanoma-1-18-20/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/odac_melanoma-1-18-20/</guid>
+      <description>
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Intro-Slide.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Disclosures.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Learning-Objectives.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Melanoma-Approvals.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Targeted-Therapy.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Immune-Checkpoints.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Melanoma-Approvals-Color.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Pilot-Study.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Instruments.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Pilot-Part-1.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Data-Collection.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Next-Steps.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Acknowledgements.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Melanoma - Pathogenesis, Diagnosis and Work Up</title>
       <link>/slides/melanoma_12_13_19-primer/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
@@ -408,9 +592,17 @@
     
     <item>
       <title>Regulatory Medicine in Cutaneous Oncology</title>
-      <link>/talk/mgh_cutaneous_oncology_lecture_series-04_02_19/</link>
+      <link>/talk/mgh_cut_on_lect_series_reg_med-04_02_19/</link>
       <pubDate>Tue, 02 Apr 2019 09:00:00 +0000</pubDate>
-      <guid>/talk/mgh_cutaneous_oncology_lecture_series-04_02_19/</guid>
+      <guid>/talk/mgh_cut_on_lect_series_reg_med-04_02_19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDA Action in Cutaneous Oncology</title>
+      <link>/talk/cumc_derm_lecture_regulatory_medicine-11-09-18/</link>
+      <pubDate>Fri, 09 Nov 2018 13:00:00 +0000</pubDate>
+      <guid>/talk/cumc_derm_lecture_regulatory_medicine-11-09-18/</guid>
       <description></description>
     </item>
     
@@ -419,6 +611,22 @@
       <link>/talk/cumc_derm_lecture_mcc-05-18-18/</link>
       <pubDate>Fri, 18 May 2018 13:00:00 +0000</pubDate>
       <guid>/talk/cumc_derm_lecture_mcc-05-18-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mGODS - Monoclonal Gammopathies of Dermatological Signficance</title>
+      <link>/talk/cumc_derm_lecture_mgods-05-18-18/</link>
+      <pubDate>Fri, 18 May 2018 08:00:00 +0000</pubDate>
+      <guid>/talk/cumc_derm_lecture_mgods-05-18-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mGODS - Monoclonal Gammopathies Of Dermatological Significance</title>
+      <link>/talk/harvard_derm_resident_mgods-12-19-17/</link>
+      <pubDate>Tue, 19 Dec 2017 09:30:00 +0000</pubDate>
+      <guid>/talk/harvard_derm_resident_mgods-12-19-17/</guid>
       <description></description>
     </item>
     
