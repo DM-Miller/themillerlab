@@ -30,8 +30,12 @@ subtitle = ""
     tag = "Patient Registries"
   
   [[content.filter_button]]
+    name = "MCC Registry"
+    tag = "MCC Registry"
+    
+  [[content.filter_button]]
     name = "Clinical Trials"
-    tag = "clinical-trials"
+    tag = "Clinical Trials"
 
   [[content.filter_button]]
     name = "Biomarkers"
@@ -39,11 +43,35 @@ subtitle = ""
     
   [[content.filter_button]]
     name = "Regulatory Medicine"
-    tag = "regulatory-medicine"
+    tag = "Regulatory Medicine"
     
   [[content.filter_button]]
     name = "Data Science"
-    tag = "data-science"
+    tag = "Data Science"
+    
+  [[content.filter_button]]
+    name = "Clinical Educator"
+    tag = "Education"
+
+  [[content.filter_button]]
+    name = "Melanoma"
+    tag = "Melanoma"
+    
+  [[content.filter_button]]
+    name = "Merkel Cell Carcinoma"
+    tag = "Merkel Cell Carcinoma"
+    
+  [[content.filter_button]]
+    name = "Squamous Cell Carcinoma"
+    tag = "Squamous Cell Carcinoma"
+
+  [[content.filter_button]]
+    name = "Dermatology"
+    tag = "Dermatology"    
+
+  [[content.filter_button]]
+    name = "Medical Oncology"
+    tag = "Medical Oncology" 
     
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -30,7 +30,8 @@ publishDate: "2019-12-04T18:00:00Z"
 slides:  
 summary: 
 tags:
-- patient-registries
+- Patient Registries
+- Merkel Cell Carcinoma
 title: PDS MCC Tumor Registry
 url_code: ""
 url_pdf: ""

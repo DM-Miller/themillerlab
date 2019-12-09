@@ -53,6 +53,21 @@
   </url>
   
   <url>
+    <loc>/tags/dermatology/</loc>
+    <lastmod>2019-12-13T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/education/</loc>
+    <lastmod>2019-12-13T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/melanoma/</loc>
+    <lastmod>2019-12-13T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/cumc_derm_lecture_melanoma-12-13-19/</loc>
     <lastmod>2019-12-13T09:00:00+00:00</lastmod>
   </url>
@@ -68,7 +83,27 @@
   </url>
   
   <url>
+    <loc>/tags/merkel-cell-carcinoma/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/patient-registries/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/moffit-10-21-19/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/slides/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/teaching/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -173,11 +208,6 @@
   </url>
   
   <url>
-    <loc>/tags/patient-registries/</loc>
-    <lastmod>2019-09-01T09:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/funding/pds-award/</loc>
     <lastmod>2019-09-01T09:30:00+00:00</lastmod>
   </url>
@@ -218,6 +248,11 @@
   </url>
   
   <url>
+    <loc>/tags/squamous-cell-carcinoma/</loc>
+    <lastmod>2019-05-20T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/unmc_5_7_19/</loc>
     <lastmod>2019-05-07T18:00:00+00:00</lastmod>
   </url>
@@ -235,6 +270,11 @@
   <url>
     <loc>/talk/gw_derm_resident_lecture_mcc-04-18-19/</loc>
     <lastmod>2019-04-18T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/medical-oncology/</loc>
+    <lastmod>2019-04-02T09:00:00+00:00</lastmod>
   </url>
   
   <url>

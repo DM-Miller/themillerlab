@@ -25,11 +25,14 @@ links:
 location: Columbia University Medical Center
 math: true
 projects:
-- internal-project
+- Merkel Cell Carcinoma
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: 
-tags: []
+tags: 
+- Education
+- Merkel Cell Carcinoma
+- Dermatology
 title: Merkel Cell Carcinoma
 url_code: ""
 url_pdf: ""

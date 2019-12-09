@@ -7,7 +7,10 @@ slides:
   highlight_style: dracula
   theme: black
 summary: Slides for CUMC Resident Lecture 12-13-19.
-tags: []
+tags: 
+- Education
+- Melanoma
+- Dermatology
 title: Melanoma - Pathogenesis, Diagnosis and Work Up
 ---
 

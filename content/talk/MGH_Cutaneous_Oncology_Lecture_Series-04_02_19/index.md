@@ -24,12 +24,15 @@ links:
 location: Massachusetts General Hospital
 math: true
 projects:
-- regulatory-medicine
+- Regulatory Medicine
 publishDate: "2019-11-28T04:00:00Z"
 slides:  
 summary: 
 tags:
-- regulatory-medicine
+- Regulatory Medicine
+- Dermatology
+- Education
+- Medical Oncology
 title: Regulatory Medicine in Cutaneous Oncology
 url_code: ""
 url_pdf: ""

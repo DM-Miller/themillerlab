@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teaching | The Miller Lab</title>
+    <link>/tags/teaching/</link>
+      <atom:link href="/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>teaching</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/MLab_logo_5.png</url>
+      <title>teaching</title>
+      <link>/tags/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Evolving Landscape of Regulatory Medicine in Cutaneous Oncology</title>
+      <link>/slides/reg_med_cut_onc-12-13-19-primer/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/reg_med_cut_onc-12-13-19-primer/</guid>
+      <description>
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Intro-Slide.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;learning-objective&#34;&gt;Learning Objective&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Overview of Regulatory Medicine&lt;/li&gt;
+&lt;li&gt;Evalutino of FDA Action in Cutaneous Oncology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Hx-FDA.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/PDUFA-Hx.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Clinical-Benefit.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Trial-Endpoints.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Approval_Pathways.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Levels-of-Clinical-Evidence.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Internal-External-Validity.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

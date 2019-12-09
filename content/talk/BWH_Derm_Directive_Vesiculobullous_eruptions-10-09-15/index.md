@@ -29,6 +29,8 @@ publishDate: "2019-11-28T04:00:00Z"
 slides:  
 summary: 
 tags:
+- Education
+- Dermatology
 title: Vesiculobullous Eruptions
 url_code: ""
 url_pdf: ""

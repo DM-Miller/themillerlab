@@ -24,11 +24,13 @@ links:
 location: Columbia University Medical Center
 math: true
 projects:
-- internal-project
+- Melanoma
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: 
-tags: []
+tags: 
+- Education
+- Melanoma
 title: Introduction to Melanoma 
 url_code: ""
 url_pdf: ""

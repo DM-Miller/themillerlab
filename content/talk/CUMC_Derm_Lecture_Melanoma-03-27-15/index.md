@@ -29,7 +29,10 @@ projects:
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: 
-tags: []
+tags: 
+- Melanoma
+- Dermatology
+- Education
 title: Melanoma
 url_code: ""
 url_pdf: ""

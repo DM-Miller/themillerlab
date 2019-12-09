@@ -24,14 +24,20 @@ links:
 location: Moffitt Cancer Center
 math: true
 projects:
-- mcc-registry
+- Patient Registries
 publishDate: "2019-11-12T16:00:00Z"
-slides: ""
+slides: Moffit-10-21-19
 summary:
-tags: []
+tags: 
+- Patient Registries
+- Merkel Cell Carcinoma
+- MCC Registry
 title: Project Data Sphere and Ongoing Multi-Institutional Database Efforts
 url_code: ""
 url_pdf: ""
-url_slides: "slides/Moffitt_Talk_10-21-19.pdf"
+url_slides: " "
 url_video: ""
 ---
+
+![jpg](./featured_1.jpg)
+

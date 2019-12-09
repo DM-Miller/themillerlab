@@ -133,6 +133,66 @@
 
 
 &lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/PDUFA-Hx.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Clinical-Benefit.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Trial-Endpoints.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Approval_Pathways.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Levels-of-Clinical-Evidence.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Internal-External-Validity.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
 </description>
     </item>
     
@@ -499,6 +559,143 @@
     </item>
     
     <item>
+      <title>Project Data Sphere and Ongoing Multi-Institutional Database Efforts</title>
+      <link>/slides/moffit-10-21-19/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/moffit-10-21-19/</guid>
+      <description>
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Intro-Slide.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Disclosures.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Unmet-Need.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/PDS-MCC-Registry.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Task-Force.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Objectives-and-Applications.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/FDA-Guidance.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Pilot-Study.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Instruments.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Pilot-Part-1.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Data-Collection.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Next-Steps.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Acknowledgements.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Website Development With R</title>
       <link>/post/website-development-using-r/</link>
       <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
@@ -603,7 +800,8 @@
       <link>/talk/moffit_10-21-19/</link>
       <pubDate>Mon, 21 Oct 2019 16:30:00 +0000</pubDate>
       <guid>/talk/moffit_10-21-19/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured_1.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
