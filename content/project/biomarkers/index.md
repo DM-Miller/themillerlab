@@ -1,5 +1,5 @@
 ---
-date: "2019-04-27T00:00:00Z"
+date: "2019-11-27T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by Nick Morrison on Unsplash
@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/Dave_M_miller
-slides: example
+slides: 
 summary: Investigating why patients respond to cancer therapies
 tags:
 - Biomarkers

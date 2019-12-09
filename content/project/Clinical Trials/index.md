@@ -1,13 +1,12 @@
 ---
-date: "2019-11-28T00:00:00Z"
-external_link: 
+title: "Clinical Trials for Skin Cancer"
+external_link: null
+date: '2019-11-28T00:00:00Z'
+summary: Investigating novel therapies for patients with advanced skin cancer
+tags: Clinical Trials
 image:
   caption: Photo by Marcelo Leal on Unsplash
   focal_point: Smart
-summary: Investigating novel therapies for patients with advanced skin cancer
-tags:
-- clinical-trials
-title: Clinical Trials for Skin Cancer
 ---
 
 # Overview

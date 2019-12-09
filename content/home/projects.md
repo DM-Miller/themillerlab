@@ -25,10 +25,7 @@ subtitle = ""
     name = "All"
     tag = "*"
   
-  [[content.filter_button]]
-    name = "Patient Registries"
-    tag = "Patient Registries"
-  
+
   [[content.filter_button]]
     name = "MCC Registry"
     tag = "MCC Registry"
