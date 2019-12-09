@@ -11,8 +11,7 @@ tags: []
 title: Melanoma - Pathogenesis, Diagnosis and Work Up
 ---
 
-# Melanoma
-## Pathogenesis, Diagnosis and Work Up
+{{< slide background-image="./Slides/Intro-Slide.pdf" >}}
 
 
 ---
@@ -45,7 +44,7 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
 
 ---
 
-{{< slide background-image="./melanoma-pathways.jpg" >}}
+{{< slide background-image="./Slides/melanoma-pathways.jpg" >}}
   
 ---
 
@@ -93,7 +92,7 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
 - Legend for Melanoma Pathways Figure is from: Miller DM, Flaherty KT. Pigment Cell Melanoma Research. 2014 May;27(3):351-65
 
 ---
-{{< slide background-image="./cell-cycle.jpg" >}}
+{{< slide background-image="./Slides/cell-cycle.jpg" >}}
 
 ---
 
@@ -133,7 +132,7 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
 
 ---
 
-{{< slide background-image="./senescence.pdf" >}} 
+{{< slide background-image="./Slides/senescence.pdf" >}} 
  
 --- 
 
@@ -191,19 +190,19 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
 
 ---
  
-{{< slide background-image="./CDKN2A.jpg" >}}
+{{< slide background-image="./Slides/CDKN2A.jpg" >}}
 
 ---
   
-{{< slide background-image="./Tx-strategies.pdf" >}}
+{{< slide background-image="./Slides/Tx-strategies.pdf" >}}
 
 ---
   
-{{< slide background-image="./Approved-Tx-1.pdf" >}}
+{{< slide background-image="./Slides/Approved-Tx-1.pdf" >}}
 
 ---
   
-{{< slide background-image="./CIT.pdf" >}}
+{{< slide background-image="./Slides/CIT.pdf" >}}
    
   
 ---
@@ -241,11 +240,11 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
 
 ---
 
-{{< slide background-image="./Stage-3-Tx.pdf" >}}
+{{< slide background-image="./Slides/Stage-3-Tx.pdf" >}}
 
 ---
 
-{{< slide background-image="./Tx-Metastatic-Dz.pdf" >}}
+{{< slide background-image="./Slides/Tx-Metastatic-Dz.pdf" >}}
 
 ---
 

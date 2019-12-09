@@ -7,15 +7,55 @@
     <description>Slides</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Melanoma - Pathogenesis, Diagnosis and Work Up</title>
-      <link>/slides/melanoma_12_13_19/</link>
+      <title>Evolving Landscape of Regulatory Medicine in Cutaneous Oncology</title>
+      <link>/slides/reg_med_cut_onc-12-13-19-primer/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/melanoma_12_13_19/</guid>
+      <guid>/slides/reg_med_cut_onc-12-13-19-primer/</guid>
       <description>
 
-&lt;h1 id=&#34;melanoma&#34;&gt;Melanoma&lt;/h1&gt;
 
-&lt;h2 id=&#34;pathogenesis-diagnosis-and-work-up&#34;&gt;Pathogenesis, Diagnosis and Work Up&lt;/h2&gt;
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Intro-Slide.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;learning-objective&#34;&gt;Learning Objective&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Overview of Regulatory Medicine&lt;/li&gt;
+&lt;li&gt;Evalutino of FDA Action in Cutaneous Oncology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;hahahugoshortcode-s1-hbhb&#34;&gt;
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Hx-FDA.pdf&#34;
+  &gt;
+&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Melanoma - Pathogenesis, Diagnosis and Work Up</title>
+      <link>/slides/melanoma_12_13_19-primer/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/melanoma_12_13_19-primer/</guid>
+      <description>
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Intro-Slide.pdf&#34;
+  &gt;
+
 
 &lt;hr /&gt;
 
@@ -54,7 +94,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./melanoma-pathways.jpg&#34;
+      data-background-image=&#34;./Slides/melanoma-pathways.jpg&#34;
   &gt;
 
 
@@ -123,7 +163,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./cell-cycle.jpg&#34;
+      data-background-image=&#34;./Slides/cell-cycle.jpg&#34;
   &gt;
 
 
@@ -183,7 +223,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./senescence.pdf&#34;
+      data-background-image=&#34;./Slides/senescence.pdf&#34;
   &gt;
 
 
@@ -263,7 +303,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./CDKN2A.jpg&#34;
+      data-background-image=&#34;./Slides/CDKN2A.jpg&#34;
   &gt;
 
 
@@ -273,7 +313,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Tx-strategies.pdf&#34;
+      data-background-image=&#34;./Slides/Tx-strategies.pdf&#34;
   &gt;
 
 
@@ -283,7 +323,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Approved-Tx-1.pdf&#34;
+      data-background-image=&#34;./Slides/Approved-Tx-1.pdf&#34;
   &gt;
 
 
@@ -293,7 +333,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./CIT.pdf&#34;
+      data-background-image=&#34;./Slides/CIT.pdf&#34;
   &gt;
 
 
@@ -346,7 +386,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Stage-3-Tx.pdf&#34;
+      data-background-image=&#34;./Slides/Stage-3-Tx.pdf&#34;
   &gt;
 
 
@@ -356,7 +396,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Tx-Metastatic-Dz.pdf&#34;
+      data-background-image=&#34;./Slides/Tx-Metastatic-Dz.pdf&#34;
   &gt;
 
 

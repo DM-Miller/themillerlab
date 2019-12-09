@@ -27,7 +27,7 @@ math: true
 projects:
 - regulatory-medicine
 publishDate: "2019-11-24T18:00:00Z"
-slides: 
+slides: Reg_Med_Cut_Onc-12-13-19-primer
 summary: 
 tags: 
 - regulatory-medicine

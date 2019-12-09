@@ -27,7 +27,7 @@ math: true
 projects:
 - internal-project
 publishDate: "2019-11-24T18:00:00Z"
-slides: melanoma_12_13_19
+slides: melanoma_12_13_19-primer
 summary: 
 tags: []
 title: Melanoma - Pathogenesis, Clinical Features, Diagnosis and Management
