@@ -9,10 +9,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/Dave_M_miller
-slides: example
+slides:  
 summary: Developing a multi-institutional Patient Registry.
 tags:
-- Patient Registries
+- MCC Registry
 title: Merkel Cell Carcinoma Patient Registry
 url_code: ""
 url_pdf: ""

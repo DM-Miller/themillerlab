@@ -25,6 +25,7 @@ links:
 location: Beth Israel Deaconess Medical Center
 math: true
 projects:
+- Clinical Educator
 publishDate: "2019-11-28T04:00:00Z"
 slides:  
 summary: 

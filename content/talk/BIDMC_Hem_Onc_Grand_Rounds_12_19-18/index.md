@@ -25,14 +25,14 @@ links:
 location: Beth Israel Deaconess Medical Center
 math: true
 projects:
-- regulatory-medicine
-- Clinical-Trials
+- Regulatory Medicine
+- Clinical Trials
 publishDate: "2019-11-28T04:00:00Z"
 slides:  
 summary: 
 tags:
-- regulatory-medicine
-- clinical-trials
+- Regulatory Medicine
+- Clinical Trials
 title: Reducing M&M in M&M - Strategies to improve Morbidity and Mortality in Melanoma and Merkel cell carcinoma
 url_code: ""
 url_pdf: ""

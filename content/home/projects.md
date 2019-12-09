@@ -25,7 +25,6 @@ subtitle = ""
     name = "All"
     tag = "*"
   
-
   [[content.filter_button]]
     name = "MCC Registry"
     tag = "MCC Registry"
@@ -49,7 +48,6 @@ subtitle = ""
   [[content.filter_button]]
     name = "Clinical Educator"
     tag = "Education"
-
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
