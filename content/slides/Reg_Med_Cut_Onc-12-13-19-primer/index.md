@@ -23,5 +23,6 @@ title: Evolving Landscape of Regulatory Medicine in Cutaneous Oncology
 
 ---
 
-{{< slide background-image="./Slides/Hx-FDA.pdf" >}}
+{{< slide background-image="./Slides/Hx-FDA.pdf" >}}  
+
 ---
