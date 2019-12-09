@@ -25,11 +25,14 @@ links:
 location: Columbia University Medical Center
 math: true
 projects:
-- internal-project
+- Regulatory Medicine
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: 
-tags: []
+tags: 
+- Regulatory Medicine
+- Medical Oncology
+- Dermatology
 title: FDA Action in Cutaneous Oncology
 url_code: ""
 url_pdf: ""

@@ -53,26 +53,7 @@ subtitle = ""
     name = "Clinical Educator"
     tag = "Education"
 
-  [[content.filter_button]]
-    name = "Melanoma"
-    tag = "Melanoma"
-    
-  [[content.filter_button]]
-    name = "Merkel Cell Carcinoma"
-    tag = "Merkel Cell Carcinoma"
-    
-  [[content.filter_button]]
-    name = "Squamous Cell Carcinoma"
-    tag = "Squamous Cell Carcinoma"
 
-  [[content.filter_button]]
-    name = "Dermatology"
-    tag = "Dermatology"    
-
-  [[content.filter_button]]
-    name = "Medical Oncology"
-    tag = "Medical Oncology" 
-    
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
