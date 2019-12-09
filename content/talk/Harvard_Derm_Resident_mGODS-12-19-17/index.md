@@ -25,11 +25,15 @@ links:
 location: Massachusetts General Hospital
 math: true
 projects:
-- internal-project
+- Clinical Educator
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: 
-tags: []
+tags: 
+- Dermatology
+- Medical Oncology
+- Education
+- mGODS
 title: mGODS - Monoclonal Gammopathies Of Dermatological Significance
 url_code: ""
 url_pdf: ""

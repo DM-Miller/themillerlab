@@ -7,7 +7,8 @@ address:
   region: NY
   street: 630 West 168th STreet
 all_day: false
-authors: [David M. Miller MD, PhD, FAAD]
+authors: 
+- admin
 date: "2018-05-18T08:00:00Z"
 date_end: "2018-05-18T09:30:00Z"
 event: Columbia University Medical Center Dermatology Resident Lecture
@@ -24,11 +25,15 @@ links:
 location: Columbia University Medical Center
 math: true
 projects:
-- internal-project
+- Clinical Education
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: 
-tags: []
+tags: 
+- mGODS
+- Dermatology
+- Clinical Education
+- Medical Oncology
 title: mGODS - Monoclonal Gammopathies of Dermatological Signficance
 url_code: ""
 url_pdf: ""
