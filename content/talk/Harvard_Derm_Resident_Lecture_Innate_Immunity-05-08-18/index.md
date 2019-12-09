@@ -25,11 +25,14 @@ links:
 location: Beth Israel Deaconess Medical Center
 math: true
 projects:
-- internal-project
+- Clinical Educator
 publishDate: "2019-12-01T18:00:00Z"
 slides: 
 summary: 
-tags: []
+tags: 
+- Dermatology
+- Immunology
+- Education
 title: PAMPs DAMPs and Dermatology - Innate Immunity for the Dermatologist
 url_code: ""
 url_pdf: ""

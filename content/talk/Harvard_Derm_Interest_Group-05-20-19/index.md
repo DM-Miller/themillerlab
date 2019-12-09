@@ -7,7 +7,8 @@ address:
   region: MA
   street: 260 Longwood Ave
 all_day: false
-authors: [David M. Miller MD, PhD, FAAD]
+authors: 
+- admin
 date: "2019-05-20T18:00:00Z"
 date_end: "2019-05-20T20:00:00Z"
 event: Harvard Dermatology Interest Group Meeting
@@ -24,11 +25,13 @@ links:
 location: Harvard Medical School
 math: true
 projects:
-- internal-project
+- Clinical Educator
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: 
-tags: []
+tags: 
+- Education
+- Dermatology
 title: Clinical and Translational Research in Cutaneous Oncology 
 url_code: ""
 url_pdf: ""

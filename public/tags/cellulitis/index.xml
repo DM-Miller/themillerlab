@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cellulitis | The Miller Lab</title>
+    <link>/tags/cellulitis/</link>
+      <atom:link href="/tags/cellulitis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cellulitis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jan 2016 15:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/MLab_logo_5.png</url>
+      <title>Cellulitis</title>
+      <link>/tags/cellulitis/</link>
+    </image>
+    
+    <item>
+      <title>The Red Leg</title>
+      <link>/talk/bwh_derm_directive_red_leg-01-29-16/</link>
+      <pubDate>Fri, 29 Jan 2016 15:30:00 +0000</pubDate>
+      <guid>/talk/bwh_derm_directive_red_leg-01-29-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cellulitis and Its Mimics</title>
+      <link>/talk/bwh_derm_directive_cellulitis_and_its_mimics-11-06-15/</link>
+      <pubDate>Fri, 06 Nov 2015 15:30:00 +0000</pubDate>
+      <guid>/talk/bwh_derm_directive_cellulitis_and_its_mimics-11-06-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

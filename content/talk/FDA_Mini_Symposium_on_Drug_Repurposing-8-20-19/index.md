@@ -24,12 +24,14 @@ links:
 location: Food and Drug Administration
 math: true
 projects:
-- mcc-registry
+- MCC Registry
+- Regulatory Medicine
 publishDate: "2019-11-12T18:00:00Z"
 slides:  
 summary: 
 tags:
-- mcc-registry
+- MCC Registry
+- Regulatory Medicine
 title: MCC Patient Registry
 url_code: ""
 url_pdf: ""

@@ -25,11 +25,15 @@ links:
 location: George Washington University School of Medicine
 math: true
 projects:
-- internal-project
+- Clinical Educator
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: 
-tags: []
+tags: 
+- mGODS
+- Dermatology
+- Education
+- Medical Oncology
 title: mGODS - Monoclonal Gammopathies of Dermatological Signficance
 url_code: ""
 url_pdf: ""

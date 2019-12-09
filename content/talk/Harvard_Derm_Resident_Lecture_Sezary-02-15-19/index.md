@@ -7,7 +7,8 @@ address:
   region: MA
   street: 50 Staniford Street
 all_day: false
-authors: [David M. Miller MD, PhD, FAAD]
+authors: 
+- admin
 date: "2019-02-15T07:00:00Z"
 date_end: "2019-02-15T08:00:00Z"
 event: Harvard Dermatology Resident Lecture
@@ -24,11 +25,14 @@ links:
 location: Massachusetts General Hospital
 math: true
 projects:
-- internal-project
+- Clinical Educator
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: 
-tags: []
+tags: 
+- Education
+- Dermatology
+- Sezary Syndrome
 title: Sezary Syndrome Part 1 - Pathogenesis and Clinical Features
 url_code: ""
 url_pdf: ""

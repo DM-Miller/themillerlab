@@ -208,6 +208,11 @@
   </url>
   
   <url>
+    <loc>/tags/squamous-cell-carcinoma/</loc>
+    <lastmod>2019-11-19T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/moffit_10-21-19/</loc>
     <lastmod>2019-10-21T16:30:00+00:00</lastmod>
   </url>
@@ -228,21 +233,6 @@
   </url>
   
   <url>
-    <loc>/authors/david-m.-miller-md/</loc>
-    <lastmod>2019-08-23T08:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/faad/</loc>
-    <lastmod>2019-08-23T08:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/phd/</loc>
-    <lastmod>2019-08-23T08:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/medical_education_program_on_melanoma_management_nmsc-8-23-19/</loc>
     <lastmod>2019-08-23T08:30:00+00:00</lastmod>
   </url>
@@ -253,7 +243,22 @@
   </url>
   
   <url>
+    <loc>/authors/david-m.-miller-md/</loc>
+    <lastmod>2019-08-20T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/faad/</loc>
+    <lastmod>2019-08-20T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/fda_mini_symposium_on_drug_repurposing-8-20-19/</loc>
+    <lastmod>2019-08-20T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/phd/</loc>
     <lastmod>2019-08-20T09:00:00+00:00</lastmod>
   </url>
   
@@ -274,11 +279,6 @@
   
   <url>
     <loc>/talk/bidmc_board_prep-05-20-19/</loc>
-    <lastmod>2019-05-20T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/squamous-cell-carcinoma/</loc>
     <lastmod>2019-05-20T15:00:00+00:00</lastmod>
   </url>
   
@@ -313,6 +313,11 @@
   </url>
   
   <url>
+    <loc>/tags/sezary-syndrome/</loc>
+    <lastmod>2019-02-22T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/harvard_derm_resident_lecture_sezary-02-22-19/</loc>
     <lastmod>2019-02-22T07:00:00+00:00</lastmod>
   </url>
@@ -320,6 +325,11 @@
   <url>
     <loc>/talk/harvard_derm_resident_lecture_sezary-02-15-19/</loc>
     <lastmod>2019-02-15T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mgods/</loc>
+    <lastmod>2019-02-08T07:45:00+00:00</lastmod>
   </url>
   
   <url>
@@ -393,6 +403,11 @@
   </url>
   
   <url>
+    <loc>/tags/immunology/</loc>
+    <lastmod>2018-08-24T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/cumc_derm_lecture_innate_immunity-08-24-18/</loc>
     <lastmod>2018-08-24T11:00:00+00:00</lastmod>
   </url>
@@ -449,11 +464,6 @@
   
   <url>
     <loc>/tags/clinical-education/</loc>
-    <lastmod>2018-05-18T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mgods/</loc>
     <lastmod>2018-05-18T08:00:00+00:00</lastmod>
   </url>
   
@@ -560,6 +570,11 @@
   <url>
     <loc>/talk/bwh_derm_directive_approach_to_purpura-03-25-16/</loc>
     <lastmod>2016-03-25T15:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cellulitis/</loc>
+    <lastmod>2016-01-29T15:30:00+00:00</lastmod>
   </url>
   
   <url>

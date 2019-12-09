@@ -25,12 +25,12 @@ links:
 location: Columbia University Medical Center
 math: true
 projects:
-- regulatory-medicine
+- Regulatory Medicine
 publishDate: "2019-11-24T18:00:00Z"
 slides: Reg_Med_Cut_Onc-12-13-19-primer
 summary: 
 tags: 
-- regulatory-medicine
+- Regulatory Medicine
 title: The Evolving Landscape of Regulatory Medicine in Cutaneous Oncology
 url_code: ""
 url_pdf: ""

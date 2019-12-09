@@ -25,7 +25,7 @@ links:
 location: Columbia University Medical Center
 math: true
 projects:
-- Merkel Cell Carcinoma
+- Clinical Educator
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: 

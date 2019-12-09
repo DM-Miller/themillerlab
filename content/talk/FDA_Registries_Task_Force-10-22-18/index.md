@@ -25,12 +25,12 @@ links:
 location: US Food and Drug Administration
 math: true
 projects:
-- mcc-registry
+- MCC Registry
 publishDate: "2019-12-04T18:00:00Z"
 slides:  
 summary: 
 tags:
-- Patient Registries
+- MCC Registry
 - Merkel Cell Carcinoma
 title: PDS MCC Tumor Registry
 url_code: ""

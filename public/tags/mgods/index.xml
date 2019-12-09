@@ -5,12 +5,28 @@
     <link>/tags/mgods/</link>
       <atom:link href="/tags/mgods/index.xml" rel="self" type="application/rss+xml" />
     <description>mGODS</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 May 2018 08:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Feb 2019 07:45:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>mGODS</title>
       <link>/tags/mgods/</link>
     </image>
+    
+    <item>
+      <title>mGODS - Monoclonal Gammopathies Of Dermatological Significance</title>
+      <link>/talk/harvard_derm_resident_mgods-02-08-19/</link>
+      <pubDate>Fri, 08 Feb 2019 07:45:00 +0000</pubDate>
+      <guid>/talk/harvard_derm_resident_mgods-02-08-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mGODS - Monoclonal Gammopathies of Dermatological Signficance</title>
+      <link>/talk/gw_derm_resident_lecture_mgods-01-17-19/</link>
+      <pubDate>Thu, 17 Jan 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/gw_derm_resident_lecture_mgods-01-17-19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>mGODS - Monoclonal Gammopathies of Dermatological Signficance</title>
@@ -25,6 +41,14 @@
       <link>/talk/harvard_derm_resident_mgods-12-19-17/</link>
       <pubDate>Tue, 19 Dec 2017 09:30:00 +0000</pubDate>
       <guid>/talk/harvard_derm_resident_mgods-12-19-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mGODS - Monoclonal Gammopathies Of Dermatological Significance</title>
+      <link>/talk/harvard_derm_resident_mgods-01-31-17/</link>
+      <pubDate>Tue, 31 Jan 2017 10:00:00 +0000</pubDate>
+      <guid>/talk/harvard_derm_resident_mgods-01-31-17/</guid>
       <description></description>
     </item>
     

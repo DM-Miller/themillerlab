@@ -7,7 +7,8 @@ address:
   region: MA
   street: 243 Charles St.
 all_day: false
-authors: [David M. Miller MD, PhD, FAAD]
+authors: 
+- admin
 date: "2018-06-14T07:00:00Z"
 date_end: "2018-06-14T08:00:00Z"
 event: Massachusetts Eye and Ear Infirmary Grand Rounds
@@ -24,11 +25,15 @@ links:
 location: Massachusetts Eye and Ear Infirmary
 math: true
 projects:
-- 
+- Clinical Educator
 publishDate: "2019-11-28T04:00:00Z"
 slides:  
 summary: 
-tags: []
+tags: 
+- Education
+- Merkel Cell Carcinoma
+- Dermatology
+- Medical Oncology
 title: Merkel Cell Carcinoma - Updates in Diagnosis and Management
 url_code: ""
 url_pdf: ""

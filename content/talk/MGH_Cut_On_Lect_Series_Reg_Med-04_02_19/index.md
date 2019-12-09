@@ -7,7 +7,8 @@ address:
   region: MA
   street: 185 Cambridge Street
 all_day: false
-authors: [David M. Miller MD, PhD, FAAD]
+authors: 
+- admin
 date: "2019-04-02T09:00:00Z"
 date_end: "2019-04-02T10:00:00Z"
 event: Cutaneous Oncology Lecture Series

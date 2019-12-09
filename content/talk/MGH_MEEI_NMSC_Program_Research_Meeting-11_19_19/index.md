@@ -25,12 +25,13 @@ links:
 location: Massachusetts General Hospital
 math: true
 projects:
-- clinical-trials 
+- Clinical Trials 
 publishDate: "2019-11-28T04:00:00Z"
 slides:  
 summary: 
 tags:
-- clinical-trials
+- Clinical Trials
+- Squamous Cell Carcinoma
 title: Clinical Investigation in cSCC - Updates from ASCO and ESMO
 url_code: ""
 url_pdf: ""

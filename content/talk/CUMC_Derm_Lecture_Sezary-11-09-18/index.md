@@ -25,11 +25,14 @@ links:
 location: Columbia University Medical Center
 math: true
 projects:
-- internal-project
+- Clinical Educator
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: 
-tags: []
+tags: 
+- Education
+- Dermatology
+- Sezary Syndrome
 title: Sezary Syndrome
 url_code: ""
 url_pdf: ""

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Immunology | The Miller Lab</title>
+    <link>/tags/immunology/</link>
+      <atom:link href="/tags/immunology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Immunology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Aug 2018 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/MLab_logo_5.png</url>
+      <title>Immunology</title>
+      <link>/tags/immunology/</link>
+    </image>
+    
+    <item>
+      <title>PAMPs, DAMPs and Dermatology</title>
+      <link>/talk/cumc_derm_lecture_innate_immunity-08-24-18/</link>
+      <pubDate>Fri, 24 Aug 2018 11:00:00 +0000</pubDate>
+      <guid>/talk/cumc_derm_lecture_innate_immunity-08-24-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCRs, Tsubs and dHSRs - T-cell Immunity for the Dermatologist</title>
+      <link>/talk/cumc_derm_lecture_t_cell_biology-08-24-18/</link>
+      <pubDate>Fri, 24 Aug 2018 09:00:00 +0000</pubDate>
+      <guid>/talk/cumc_derm_lecture_t_cell_biology-08-24-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PAMPs DAMPs and Dermatology - Innate Immunity for the Dermatologist</title>
+      <link>/talk/harvard_derm_resident_lecture_innate_immunity-05-08-18/</link>
+      <pubDate>Tue, 08 May 2018 09:30:00 +0000</pubDate>
+      <guid>/talk/harvard_derm_resident_lecture_innate_immunity-05-08-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

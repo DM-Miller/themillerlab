@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sezary Syndrome | The Miller Lab</title>
+    <link>/tags/sezary-syndrome/</link>
+      <atom:link href="/tags/sezary-syndrome/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sezary Syndrome</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Feb 2019 07:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/MLab_logo_5.png</url>
+      <title>Sezary Syndrome</title>
+      <link>/tags/sezary-syndrome/</link>
+    </image>
+    
+    <item>
+      <title>Sezary Syndrome Part 2 - Diagnosis and Management</title>
+      <link>/talk/harvard_derm_resident_lecture_sezary-02-22-19/</link>
+      <pubDate>Fri, 22 Feb 2019 07:00:00 +0000</pubDate>
+      <guid>/talk/harvard_derm_resident_lecture_sezary-02-22-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sezary Syndrome Part 1 - Pathogenesis and Clinical Features</title>
+      <link>/talk/harvard_derm_resident_lecture_sezary-02-15-19/</link>
+      <pubDate>Fri, 15 Feb 2019 07:00:00 +0000</pubDate>
+      <guid>/talk/harvard_derm_resident_lecture_sezary-02-15-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sezary Syndrome</title>
+      <link>/talk/gw_derm_resident_lecture_sezary-01-17-19/</link>
+      <pubDate>Thu, 17 Jan 2019 14:30:00 +0000</pubDate>
+      <guid>/talk/gw_derm_resident_lecture_sezary-01-17-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sezary Syndrome</title>
+      <link>/talk/cumc_derm_lecture_sezary-11-09-18/</link>
+      <pubDate>Fri, 09 Nov 2018 09:00:00 +0000</pubDate>
+      <guid>/talk/cumc_derm_lecture_sezary-11-09-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sezary Syndrome</title>
+      <link>/talk/harvard_derm_resident_lecture_sezary-11-21-17/</link>
+      <pubDate>Tue, 21 Nov 2017 10:30:00 +0000</pubDate>
+      <guid>/talk/harvard_derm_resident_lecture_sezary-11-21-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sezary Syndrome</title>
+      <link>/talk/harvard_derm_resident_lecture_sezary-05-30-17/</link>
+      <pubDate>Tue, 30 May 2017 11:00:00 +0000</pubDate>
+      <guid>/talk/harvard_derm_resident_lecture_sezary-05-30-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

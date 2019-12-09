@@ -7,7 +7,8 @@ address:
   region: MA
   street: 55 Staniford St. 
 all_day: false
-authors: [David M. Miller MD, PhD, FAAD]
+authors: 
+- admin
 date: "2019-08-23T08:00:00Z"
 date_end: "2019-08-23T08:30:00Z"
 event: Medical Education Program on Melanoma Management
@@ -24,11 +25,14 @@ links:
 location: Massachusetts General Hospital
 math: true
 projects:
-- internal-project
+- Clinical Educator
 publishDate: "2019-11-29T18:00:00Z"
 slides: 
 summary: 
-tags: []
+tags: 
+- Melanoma
+- Education
+- Dermatology
 title: Diagnosis and Initial Management of Melanoma 
 url_code: ""
 url_pdf: ""

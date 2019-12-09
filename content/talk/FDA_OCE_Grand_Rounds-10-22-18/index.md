@@ -24,12 +24,14 @@ links:
 location: US Food and Drug Administration
 math: true
 projects:
-- regulatory-medicine
+- Regulatory Medicine
+- MCC Registry
 publishDate: "2019-12-04T18:00:00Z"
 slides:  
 summary: 
 tags:
-- regulatory-medicine
+- Regulatory Medicine
+- MCC Registry
 title: FDA Action in Cutaneous Oncology
 url_code: ""
 url_pdf: ""
