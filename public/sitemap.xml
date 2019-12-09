@@ -19,26 +19,61 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-12-13T13:00:00+00:00</lastmod>
+    <lastmod>2020-01-18T11:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-12-13T13:00:00+00:00</lastmod>
+    <lastmod>2020-01-18T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dermatology/</loc>
+    <lastmod>2020-01-18T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/medical-oncology/</loc>
+    <lastmod>2020-01-18T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/melanoma/</loc>
+    <lastmod>2020-01-18T11:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/</loc>
-    <lastmod>2019-12-13T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regulatory-medicine/</loc>
-    <lastmod>2019-12-13T13:00:00+00:00</lastmod>
+    <lastmod>2020-01-18T11:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2020-01-18T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-01-18T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/odac_melanoma-1-18-20/</loc>
+    <lastmod>2020-01-18T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/merkel-cell-carcinoma/</loc>
+    <lastmod>2020-01-17T15:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/odac_mcc-1-17-20/</loc>
+    <lastmod>2020-01-17T15:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regulatory-medicine/</loc>
     <lastmod>2019-12-13T13:00:00+00:00</lastmod>
   </url>
   
@@ -48,22 +83,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-12-13T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/dermatology/</loc>
-    <lastmod>2019-12-13T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/education/</loc>
-    <lastmod>2019-12-13T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/melanoma/</loc>
     <lastmod>2019-12-13T09:00:00+00:00</lastmod>
   </url>
   
@@ -79,11 +99,6 @@
   
   <url>
     <loc>/slides/melanoma_12_13_19-primer/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/merkel-cell-carcinoma/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,21 +193,6 @@
   </url>
   
   <url>
-    <loc>/authors/david-m.-miller-md/</loc>
-    <lastmod>2019-10-21T16:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/faad/</loc>
-    <lastmod>2019-10-21T16:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/phd/</loc>
-    <lastmod>2019-10-21T16:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/moffit_10-21-19/</loc>
     <lastmod>2019-10-21T16:30:00+00:00</lastmod>
   </url>
@@ -210,6 +210,21 @@
   <url>
     <loc>/funding/pds-award/</loc>
     <lastmod>2019-09-01T09:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-m.-miller-md/</loc>
+    <lastmod>2019-08-23T08:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/faad/</loc>
+    <lastmod>2019-08-23T08:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/phd/</loc>
+    <lastmod>2019-08-23T08:30:00+00:00</lastmod>
   </url>
   
   <url>
@@ -270,11 +285,6 @@
   <url>
     <loc>/talk/gw_derm_resident_lecture_mcc-04-18-19/</loc>
     <lastmod>2019-04-18T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/medical-oncology/</loc>
-    <lastmod>2019-04-02T09:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -395,16 +405,6 @@
   <url>
     <loc>/publication/cdk7/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>

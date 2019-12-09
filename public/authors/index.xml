@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2020 11:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Fri, 13 Dec 2019 13:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Jan 2020 11:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;&lt;strong&gt;David Michael Miller, MD, PhD, FAAD&lt;/strong&gt; is a Board-Certified Dermatologist and Medical Oncologist at Massachusetts General Hospital and investigator in the &lt;a href=&#34;https://www.massgeneral.org/cancer-center&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Massachusetts General Hospital Cancer Center&lt;/strong&gt;&lt;/a&gt;. The Miller Lab&amp;rsquo;s long-term goal is to identify and develop novel therapeutics for advanced skin cancer and to understand the mechanism of response and resistance to those therapies.&lt;/p&gt;
 
@@ -71,7 +71,7 @@ Medical Oncology, American Board of Internal Medicine&lt;/p&gt;
     <item>
       <title>David M. Miller MD</title>
       <link>/authors/david-m.-miller-md/</link>
-      <pubDate>Mon, 21 Oct 2019 16:30:00 +0000</pubDate>
+      <pubDate>Fri, 23 Aug 2019 08:30:00 +0000</pubDate>
       <guid>/authors/david-m.-miller-md/</guid>
       <description></description>
     </item>
@@ -79,7 +79,7 @@ Medical Oncology, American Board of Internal Medicine&lt;/p&gt;
     <item>
       <title>FAAD</title>
       <link>/authors/faad/</link>
-      <pubDate>Mon, 21 Oct 2019 16:30:00 +0000</pubDate>
+      <pubDate>Fri, 23 Aug 2019 08:30:00 +0000</pubDate>
       <guid>/authors/faad/</guid>
       <description></description>
     </item>
@@ -87,7 +87,7 @@ Medical Oncology, American Board of Internal Medicine&lt;/p&gt;
     <item>
       <title>PhD</title>
       <link>/authors/phd/</link>
-      <pubDate>Mon, 21 Oct 2019 16:30:00 +0000</pubDate>
+      <pubDate>Fri, 23 Aug 2019 08:30:00 +0000</pubDate>
       <guid>/authors/phd/</guid>
       <description></description>
     </item>

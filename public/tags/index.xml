@@ -5,12 +5,44 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2020 11:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Dermatology</title>
+      <link>/tags/dermatology/</link>
+      <pubDate>Sat, 18 Jan 2020 11:00:00 +0000</pubDate>
+      <guid>/tags/dermatology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Oncology</title>
+      <link>/tags/medical-oncology/</link>
+      <pubDate>Sat, 18 Jan 2020 11:00:00 +0000</pubDate>
+      <guid>/tags/medical-oncology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melanoma</title>
+      <link>/tags/melanoma/</link>
+      <pubDate>Sat, 18 Jan 2020 11:00:00 +0000</pubDate>
+      <guid>/tags/melanoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Merkel Cell Carcinoma</title>
+      <link>/tags/merkel-cell-carcinoma/</link>
+      <pubDate>Fri, 17 Jan 2020 15:35:00 +0000</pubDate>
+      <guid>/tags/merkel-cell-carcinoma/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>regulatory-medicine</title>
@@ -21,34 +53,10 @@
     </item>
     
     <item>
-      <title>Dermatology</title>
-      <link>/tags/dermatology/</link>
-      <pubDate>Fri, 13 Dec 2019 09:00:00 +0000</pubDate>
-      <guid>/tags/dermatology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Education</title>
       <link>/tags/education/</link>
       <pubDate>Fri, 13 Dec 2019 09:00:00 +0000</pubDate>
       <guid>/tags/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Melanoma</title>
-      <link>/tags/melanoma/</link>
-      <pubDate>Fri, 13 Dec 2019 09:00:00 +0000</pubDate>
-      <guid>/tags/melanoma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Merkel Cell Carcinoma</title>
-      <link>/tags/merkel-cell-carcinoma/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/merkel-cell-carcinoma/</guid>
       <description></description>
     </item>
     
@@ -105,14 +113,6 @@
       <link>/tags/squamous-cell-carcinoma/</link>
       <pubDate>Mon, 20 May 2019 15:00:00 +0000</pubDate>
       <guid>/tags/squamous-cell-carcinoma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Medical Oncology</title>
-      <link>/tags/medical-oncology/</link>
-      <pubDate>Tue, 02 Apr 2019 09:00:00 +0000</pubDate>
-      <guid>/tags/medical-oncology/</guid>
       <description></description>
     </item>
     

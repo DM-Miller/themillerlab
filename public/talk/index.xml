@@ -5,12 +5,28 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2020 11:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Therapeutic Updates in Melanoma - IO for Earlier Stage Disease</title>
+      <link>/talk/odac_melanoma-1-18-20/</link>
+      <pubDate>Sat, 18 Jan 2020 11:00:00 +0000</pubDate>
+      <guid>/talk/odac_melanoma-1-18-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Merkel Cell Carcinoma- Current Concepts in Diagnosis and Management</title>
+      <link>/talk/odac_mcc-1-17-20/</link>
+      <pubDate>Fri, 17 Jan 2020 15:35:00 +0000</pubDate>
+      <guid>/talk/odac_mcc-1-17-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Evolving Landscape of Regulatory Medicine in Cutaneous Oncology</title>

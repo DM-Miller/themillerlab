@@ -7,7 +7,8 @@ address:
   region: Ilinois
   street: 
 all_day: false
-authors: [David M. Miller MD, PhD, FAAD]
+authors:  
+- admin
 date: "2019-06-02T18:30:00Z"
 date_end: "2019-06-02T19:00:00Z"
 event: Merkel Cell Carcinoma Interest Group Meeting Conference

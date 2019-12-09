@@ -5,12 +5,28 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>The Miller Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2020 11:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>The Miller Lab</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Therapeutic Updates in Melanoma - IO for Earlier Stage Disease</title>
+      <link>/talk/odac_melanoma-1-18-20/</link>
+      <pubDate>Sat, 18 Jan 2020 11:00:00 +0000</pubDate>
+      <guid>/talk/odac_melanoma-1-18-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Merkel Cell Carcinoma- Current Concepts in Diagnosis and Management</title>
+      <link>/talk/odac_mcc-1-17-20/</link>
+      <pubDate>Fri, 17 Jan 2020 15:35:00 +0000</pubDate>
+      <guid>/talk/odac_mcc-1-17-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Evolving Landscape of Regulatory Medicine in Cutaneous Oncology</title>
@@ -672,6 +688,15 @@
     </item>
     
     <item>
+      <title>Project Data Sphere and Ongoing Multi-Institutional Database Efforts</title>
+      <link>/talk/moffit_10-21-19/</link>
+      <pubDate>Mon, 21 Oct 2019 16:30:00 +0000</pubDate>
+      <guid>/talk/moffit_10-21-19/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured_1.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2019 ASCO IO Abstracts Review</title>
       <link>/talk/sanofi_expert_series/</link>
       <pubDate>Mon, 07 Oct 2019 15:00:00 +0000</pubDate>
@@ -693,6 +718,14 @@
     </item>
     
     <item>
+      <title>Project Data Sphere &amp; MCC patient Registry- From Promise to Prototype to Patient</title>
+      <link>/talk/scout_6-2-19/</link>
+      <pubDate>Sun, 02 Jun 2019 18:30:00 +0000</pubDate>
+      <guid>/talk/scout_6-2-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cutaneous Oncology Board Preparation</title>
       <link>/talk/bidmc_board_prep-05-20-19/</link>
       <pubDate>Mon, 20 May 2019 15:00:00 +0000</pubDate>
@@ -701,10 +734,26 @@
     </item>
     
     <item>
+      <title>Regulatory Medicine in Cutaneous Oncology</title>
+      <link>/talk/unmc_5_7_19/</link>
+      <pubDate>Tue, 07 May 2019 18:00:00 +0000</pubDate>
+      <guid>/talk/unmc_5_7_19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Merkel Cell Carcinoma</title>
       <link>/talk/gw_derm_resident_lecture_mcc-04-18-19/</link>
       <pubDate>Thu, 18 Apr 2019 09:00:00 +0000</pubDate>
       <guid>/talk/gw_derm_resident_lecture_mcc-04-18-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Data Sphere &amp; MCC patient Registry- From Promise to Prototype to Patient</title>
+      <link>/talk/mig_3-1-19/</link>
+      <pubDate>Fri, 01 Mar 2019 18:00:00 +0000</pubDate>
+      <guid>/talk/mig_3-1-19/</guid>
       <description></description>
     </item>
     

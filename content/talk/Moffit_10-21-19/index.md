@@ -7,7 +7,8 @@ address:
   region: Fl
   street: 12902 USF Magnolia Drive
 all_day: false
-authors: [David M. Miller MD, PhD, FAAD]
+authors: 
+- admin
 date: "2019-10-21T16:30:00Z"
 date_end: "2019-10-21T16:45:00Z"
 event: International Symposium on Merkel Cell Carcinoma
