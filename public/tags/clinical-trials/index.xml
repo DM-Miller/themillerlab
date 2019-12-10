@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>clinical-trials | The Miller Lab</title>
+    <title>Clinical Trials | The Miller Lab</title>
     <link>/tags/clinical-trials/</link>
       <atom:link href="/tags/clinical-trials/index.xml" rel="self" type="application/rss+xml" />
-    <description>clinical-trials</description>
+    <description>Clinical Trials</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
-      <title>clinical-trials</title>
+      <title>Clinical Trials</title>
       <link>/tags/clinical-trials/</link>
     </image>
     

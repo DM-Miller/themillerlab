@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>regulatory-medicine | The Miller Lab</title>
+    <title>Regulatory Medicine | The Miller Lab</title>
     <link>/tags/regulatory-medicine/</link>
       <atom:link href="/tags/regulatory-medicine/index.xml" rel="self" type="application/rss+xml" />
-    <description>regulatory-medicine</description>
+    <description>Regulatory Medicine</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
-      <title>regulatory-medicine</title>
+      <title>Regulatory Medicine</title>
       <link>/tags/regulatory-medicine/</link>
     </image>
     
@@ -21,6 +21,104 @@
     </item>
     
     <item>
+      <title>Evolving Landscape of Regulatory Medicine in Cutaneous Oncology</title>
+      <link>/slides/reg_med_cut_onc-12-13-19-primer/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/reg_med_cut_onc-12-13-19-primer/</guid>
+      <description>
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Intro-Slide.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;learning-objective&#34;&gt;Learning Objective&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Overview of Regulatory Medicine&lt;/li&gt;
+&lt;li&gt;Evalutino of FDA Action in Cutaneous Oncology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Hx-FDA.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/PDUFA-Hx.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Clinical-Benefit.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Trial-Endpoints.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Approval_Pathways.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Levels-of-Clinical-Evidence.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Internal-External-Validity.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cutaneous Oncology Research Fellow</title>
       <link>/post/cutaneous-oncology-research-fellow/</link>
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
@@ -29,7 +127,7 @@
 
 &lt;p&gt;Please see the attached PDF for more information.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;./CORF-post.pdf&#34; alt=&#34;pdf&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;./CORF-post.pdf&#34;&gt;Cutaneous Oncology Research Fellow Posting&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Current Fellows&lt;/strong&gt;&lt;br /&gt;
 - &lt;a href=&#34;https://www.themillerlab.io/authors/fellows/&#34; target=&#34;_blank&#34;&gt;Sophia Shalhout, PhD&lt;/a&gt;

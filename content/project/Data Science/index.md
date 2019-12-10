@@ -27,6 +27,6 @@ We are developing data science tools to faciliate Clinical and Translational Inv
 ## Overview  
 * The attached PDF is a working document on how to create a website using R via a package called blogdown. 
 
-![](Website_Development_in_R.pdf)
+[Website Development in R](Website_Development_in_R.pdf)
 
 

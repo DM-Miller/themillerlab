@@ -45,7 +45,7 @@
     </item>
     
     <item>
-      <title>regulatory-medicine</title>
+      <title>Regulatory Medicine</title>
       <link>/tags/regulatory-medicine/</link>
       <pubDate>Fri, 13 Dec 2019 13:00:00 +0000</pubDate>
       <guid>/tags/regulatory-medicine/</guid>
@@ -61,18 +61,10 @@
     </item>
     
     <item>
-      <title>Patient Registries</title>
-      <link>/tags/patient-registries/</link>
+      <title>MCC Registry</title>
+      <link>/tags/mcc-registry/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/patient-registries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>teaching</title>
-      <link>/tags/teaching/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/teaching/</guid>
+      <guid>/tags/mcc-registry/</guid>
       <description></description>
     </item>
     
@@ -85,7 +77,7 @@
     </item>
     
     <item>
-      <title>biomarkers</title>
+      <title>Biomarkers</title>
       <link>/tags/biomarkers/</link>
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/tags/biomarkers/</guid>
@@ -93,15 +85,7 @@
     </item>
     
     <item>
-      <title>mcc-registry</title>
-      <link>/tags/mcc-registry/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/mcc-registry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>clinical-trials</title>
+      <title>Clinical Trials</title>
       <link>/tags/clinical-trials/</link>
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/tags/clinical-trials/</guid>
@@ -137,14 +121,6 @@
       <link>/tags/immunology/</link>
       <pubDate>Fri, 24 Aug 2018 11:00:00 +0000</pubDate>
       <guid>/tags/immunology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clinical Education</title>
-      <link>/tags/clinical-education/</link>
-      <pubDate>Fri, 18 May 2018 08:00:00 +0000</pubDate>
-      <guid>/tags/clinical-education/</guid>
       <description></description>
     </item>
     

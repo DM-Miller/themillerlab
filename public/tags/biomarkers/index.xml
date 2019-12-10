@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>biomarkers | The Miller Lab</title>
+    <title>Biomarkers | The Miller Lab</title>
     <link>/tags/biomarkers/</link>
       <atom:link href="/tags/biomarkers/index.xml" rel="self" type="application/rss+xml" />
-    <description>biomarkers</description>
+    <description>Biomarkers</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
-      <title>biomarkers</title>
+      <title>Biomarkers</title>
       <link>/tags/biomarkers/</link>
     </image>
     
@@ -21,7 +21,7 @@
 
 &lt;p&gt;Please see the attached PDF for more information.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;./CORF-post.pdf&#34; alt=&#34;pdf&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;./CORF-post.pdf&#34;&gt;Cutaneous Oncology Research Fellow Posting&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Current Fellows&lt;/strong&gt;&lt;br /&gt;
 - &lt;a href=&#34;https://www.themillerlab.io/authors/fellows/&#34; target=&#34;_blank&#34;&gt;Sophia Shalhout, PhD&lt;/a&gt;

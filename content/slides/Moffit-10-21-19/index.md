@@ -8,7 +8,7 @@ slides:
   theme: black
 summary: Slides for MCC Symposium 10-21-19.
 tags: 
-- Patient Registries
+- MCC Registry
 - Merkel Cell Carcinoma
 title: Project Data Sphere and Ongoing Multi-Institutional Database Efforts
 ---

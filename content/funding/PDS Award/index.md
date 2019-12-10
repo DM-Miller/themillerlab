@@ -15,12 +15,12 @@ image:
 location: 
 math: true
 projects:
-- mcc-registry
+- MCC Registry
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: Merkel Cell Carcinoma Patient Registry
 tags: 
-- Patient Registries
+- MCC Registry
 title: Project Data Sphere’s Mentoring Award in Oncology, Advanced Analytics and Regulatory Science
 url_source: "https://www.projectdatasphere.org/projectdatasphere/html/home"
 url_pdf: ""

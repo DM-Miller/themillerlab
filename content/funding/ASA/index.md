@@ -15,12 +15,12 @@ image:
 location: 
 math: true
 projects:
-- clinical-trials
+- Clinical Trials
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: JAK1 Inhibition to Overcome BRAF/MEK Inhibitor Resistance in V600-BRAF Mutant Melanoma
 tags: 
-- clinical-trials
+- Clinical Trials
 title: American Skin Association Research Grant
 url_source: "http://www.americanskin.org/research/recipients2018.php"
 url_pdf: ""

@@ -12,17 +12,17 @@ image:
   preview_only: false
 lastMod: "2019-12-06T00:00:00Z"
 projects: 
-- regulatory-medicine
-- biomarkers
-- data-science
-- mcc-registry
+- Regulatory Medicine
+- Biomarkers
+- Data Science
+- MCC Registry
 subtitle: 
 summary: A fellowship at MGH in Skin Cancer research 
 tags: 
-- regulatory-medicine
-- biomarkers
-- data-science
-- mcc-registry
+- Regulatory Medicine
+- Biomarkers
+- Data Science
+- MCC Registry
 title: Cutaneous Oncology Research Fellow
 ---
 
@@ -30,7 +30,7 @@ The Massachusetts General Hospital Cancer Center and the Department of Dermatolo
 
 Please see the attached PDF for more information.
 
-![pdf](./CORF-post.pdf)
+[Cutaneous Oncology Research Fellow Posting](./CORF-post.pdf)
 
 **Current Fellows**  
 - [Sophia Shalhout, PhD](https://www.themillerlab.io/authors/fellows/)

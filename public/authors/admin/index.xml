@@ -803,7 +803,7 @@
 
 &lt;h3 id=&#34;please-see-the-attached-pdf-for-more-information&#34;&gt;Please see the attached PDF for more information.&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;./Website_Development_in_R.pdf&#34; alt=&#34;pdf&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;./Website_Development_in_R.pdf&#34;&gt;Website Development in R&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -816,7 +816,7 @@
 
 &lt;p&gt;Please see the attached PDF for more information.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;./CORF-post.pdf&#34; alt=&#34;pdf&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;./CORF-post.pdf&#34;&gt;Cutaneous Oncology Research Fellow Posting&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Current Fellows&lt;/strong&gt;&lt;br /&gt;
 - &lt;a href=&#34;https://www.themillerlab.io/authors/fellows/&#34; target=&#34;_blank&#34;&gt;Sophia Shalhout, PhD&lt;/a&gt;
@@ -837,7 +837,7 @@
       <link>/talk/moffit_10-21-19/</link>
       <pubDate>Mon, 21 Oct 2019 16:30:00 +0000</pubDate>
       <guid>/talk/moffit_10-21-19/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./featured_1.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./featured_1.jpg&#34; alt=&#34;Dr. Miller presenting at MCC Symposium&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

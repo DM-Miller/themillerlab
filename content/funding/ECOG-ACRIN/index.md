@@ -15,12 +15,12 @@ image:
 location: 
 math: true
 projects:
-- clinical-trials
+- Clinical Trials
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: A Novel JAK1 Inhibitor to Overcome BRAF/MEK Inhibitor Resistance in V600-BRAF Mutant Melanoma
 tags: 
-- clinical-trials
+- Clinical Trials
 title: ECOG ACRIN Paul Carbone, MD Fellowship Award
 url_source: "https://ecog-acrin.org/research-support/mentorship/paul-carbone-md-fellowship"
 url_pdf: ""

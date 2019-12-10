@@ -29,7 +29,7 @@
 
 &lt;h3 id=&#34;please-see-the-attached-pdf-for-more-information&#34;&gt;Please see the attached PDF for more information.&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;./Website_Development_in_R.pdf&#34; alt=&#34;pdf&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;./Website_Development_in_R.pdf&#34;&gt;Website Development in R&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -25,12 +25,13 @@ links:
 location: Merkel Cell Carcinoma Interest Group Meeting, Washington DC
 math: true
 projects:
-- mcc-registry
+- MCC Registry
 publishDate: "2017-01-01T00:00:00Z"
 slides: ""
 summary: 
 tags: 
-- Patient Registries
+- MCC Registry
+- Merkel Cell Carcinoma
 title: Project Data Sphere & MCC patient Registry- From Promise to Prototype to Patient
 url_code: ""
 url_pdf: ""

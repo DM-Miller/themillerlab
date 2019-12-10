@@ -25,12 +25,13 @@ links:
 location: Webinar
 math: true
 projects:
-- clinical-trials 
+- Clinical Trials
 publishDate: "2019-11-28T04:00:00Z"
 slides:  
 summary: 
 tags:
-- clinical-trials
+- Squamous Cell Carcinoma
+- Clinical Trials
 title: 2019 ASCO IO Abstracts Review
 url_code: ""
 url_pdf: ""

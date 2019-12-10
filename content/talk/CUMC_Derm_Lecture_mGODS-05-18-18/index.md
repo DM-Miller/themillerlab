@@ -25,14 +25,14 @@ links:
 location: Columbia University Medical Center
 math: true
 projects:
-- Clinical Education
+- Clinical Educator
 publishDate: "2019-11-24T18:00:00Z"
 slides: 
 summary: 
 tags: 
 - mGODS
 - Dermatology
-- Clinical Education
+- Education
 - Medical Oncology
 title: mGODS - Monoclonal Gammopathies of Dermatological Signficance
 url_code: ""

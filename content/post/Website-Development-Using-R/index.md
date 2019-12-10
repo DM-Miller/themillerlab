@@ -29,5 +29,5 @@ title: Website Development With R
 
 ### Please see the attached PDF for more information.
 
-![pdf](./Website_Development_in_R.pdf)
+[Website Development in R](./Website_Development_in_R.pdf)
 

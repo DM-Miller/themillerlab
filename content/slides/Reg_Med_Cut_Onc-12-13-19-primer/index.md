@@ -8,7 +8,8 @@ slides:
   theme: black
 summary: Slides for CUMC Resident Reg Med Lecture 12-13-19.
 tags: 
-- teaching
+- Education
+- Regulatory Medicine
 title: Evolving Landscape of Regulatory Medicine in Cutaneous Oncology
 ---
 
