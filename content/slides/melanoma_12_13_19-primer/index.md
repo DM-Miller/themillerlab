@@ -12,6 +12,7 @@ tags:
 - Melanoma
 - Dermatology
 title: Melanoma - Pathogenesis, Diagnosis and Work Up
+
 ---
 
 {{< slide background-image="./Slides/Intro-Slide.pdf" >}}
@@ -47,55 +48,16 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
 
 ---
 
-{{< slide background-image="./Slides/melanoma-pathways.jpg" >}}
+{{< slide background-image="./Slides/melanoma-pathways.pdf" >}}
   
 ---
 
-## Legend for Melanoma Pathways Figure  
+{{< slide background-image="./Slides/melanoma-pathways-legend.pdf" >}}
 
-- Mitogenic stimuli from growth factor receptors such as c-KIT result in activation of RAS. 
-- Output from RAS promotes cell proliferation and survival by activating the MAPK kinase pathway (BRAF-MEK-ERK) and the PI3K-PIP3-AKT pathway. 
 
 ---
 
-## Legend for Melanoma Pathways Figure (cont.)  
-
-- Cell proliferation is triggered by increased transcription of cyclin D family members via output from both MAPK and PI3K signaling. MAPK signaling induces expression of cyclin D1, via JNK, ERK and AP-1 (Jun and c-fos), which leads to the liberation of E2F.  
-
----
-
-## Legend for Melanoma Pathways Figure (cont.)  
-
-- Transcription of cyclin D is also promoted when AKT activation stimulates mTOR to inhibit 4E-BP1, a suppressor of eIF4E.  
-
----
-
-## Legend for Melanoma Pathways Figure (cont.)  
-
-- In addition, cyclin D–CDK4/6 complexes promote cell growth by stabilizing FOXM1 through multisite phosphorylation, leading to the expression of mitogenic genes, such as CDK1 and members of the cyclin A, B, D and E families. The RAS-PI3K pathway also antagonizes the GSK3b phosphorylation of cyclin D–CDK4/6 complexes, which results in ubiquitination and proteasome degradation.  
-
----
-
-## Legend for Melanoma Pathways Figure (cont.)  
-
-- Several antiapoptotic pathways are induced downstream of RAS. 
-- RSK activation of CREB upregulates BCL2 and antagonizes apoptosis at the level of the mitochondria. 
-- BCL2 activity is further promoted by the AKT-mediated phosphorylation, and subsequent inhibition, of the pro-apoptotic BAD.  
-
----
-
-## Legend for Melanoma Pathways Figure (cont.)  
-
-- RAS is downregulated by GTPase-activating proteins such as NF1, which facilitates the hydrolysis of GTP to GDP. Conversely, GEFs stimulate the release of GDP to allow for binding of GTP by RAS and subsequent activation. 
-
----
-
-## Citation  
-
-- Legend for Melanoma Pathways Figure is from: Miller DM, Flaherty KT. Pigment Cell Melanoma Research. 2014 May;27(3):351-65
-
----
-{{< slide background-image="./Slides/cell-cycle.jpg" >}}
+{{< slide background-image="./Slides/cell-cycle.pdf" >}}
 
 ---
 
@@ -193,7 +155,11 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
 
 ---
  
-{{< slide background-image="./Slides/CDKN2A.jpg" >}}
+{{< slide background-image="./Slides/CDKN2A.pdf" >}}
+
+---
+ 
+{{< slide background-image="./Slides/Prognosis.pdf" >}}
 
 ---
   
@@ -201,7 +167,7 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
 
 ---
   
-{{< slide background-image="./Slides/Approved-Tx-1.pdf" >}}
+{{< slide background-image="./Slides/Approved-Tx.pdf" >}}
 
 ---
   

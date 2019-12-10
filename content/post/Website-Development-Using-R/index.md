@@ -13,11 +13,11 @@ image:
   preview_only: false
 lastMod: "2019-12-06T00:00:00Z"
 projects: 
-- data-science
+- Data Science
 subtitle: 
 summary: This working document is a rough user guide on how to create a website using R via a package called `blogdown`
 tags: 
-- data-science
+- Data Science
 title: Website Development With R
 ---
 

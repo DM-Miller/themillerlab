@@ -340,68 +340,9 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/melanoma-pathways.jpg&#34;
+      data-background-image=&#34;./Slides/melanoma-pathways.pdf&#34;
   &gt;
 
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;legend-for-melanoma-pathways-figure&#34;&gt;Legend for Melanoma Pathways Figure&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mitogenic stimuli from growth factor receptors such as c-KIT result in activation of RAS.&lt;/li&gt;
-&lt;li&gt;Output from RAS promotes cell proliferation and survival by activating the MAPK kinase pathway (BRAF-MEK-ERK) and the PI3K-PIP3-AKT pathway.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;legend-for-melanoma-pathways-figure-cont&#34;&gt;Legend for Melanoma Pathways Figure (cont.)&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Cell proliferation is triggered by increased transcription of cyclin D family members via output from both MAPK and PI3K signaling. MAPK signaling induces expression of cyclin D1, via JNK, ERK and AP-1 (Jun and c-fos), which leads to the liberation of E2F.&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;legend-for-melanoma-pathways-figure-cont-1&#34;&gt;Legend for Melanoma Pathways Figure (cont.)&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Transcription of cyclin D is also promoted when AKT activation stimulates mTOR to inhibit 4E-BP1, a suppressor of eIF4E.&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;legend-for-melanoma-pathways-figure-cont-2&#34;&gt;Legend for Melanoma Pathways Figure (cont.)&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In addition, cyclin D–CDK4/6 complexes promote cell growth by stabilizing FOXM1 through multisite phosphorylation, leading to the expression of mitogenic genes, such as CDK1 and members of the cyclin A, B, D and E families. The RAS-PI3K pathway also antagonizes the GSK3b phosphorylation of cyclin D–CDK4/6 complexes, which results in ubiquitination and proteasome degradation.&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;legend-for-melanoma-pathways-figure-cont-3&#34;&gt;Legend for Melanoma Pathways Figure (cont.)&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Several antiapoptotic pathways are induced downstream of RAS.&lt;/li&gt;
-&lt;li&gt;RSK activation of CREB upregulates BCL2 and antagonizes apoptosis at the level of the mitochondria.&lt;/li&gt;
-&lt;li&gt;BCL2 activity is further promoted by the AKT-mediated phosphorylation, and subsequent inhibition, of the pro-apoptotic BAD.&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;legend-for-melanoma-pathways-figure-cont-4&#34;&gt;Legend for Melanoma Pathways Figure (cont.)&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;RAS is downregulated by GTPase-activating proteins such as NF1, which facilitates the hydrolysis of GTP to GDP. Conversely, GEFs stimulate the release of GDP to allow for binding of GTP by RAS and subsequent activation.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Legend for Melanoma Pathways Figure is from: Miller DM, Flaherty KT. Pigment Cell Melanoma Research. 2014 May;27(3):351-65&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;hr /&gt;
 
@@ -409,7 +350,17 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/cell-cycle.jpg&#34;
+      data-background-image=&#34;./Slides/melanoma-pathways-legend.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/cell-cycle.pdf&#34;
   &gt;
 
 
@@ -457,7 +408,7 @@
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;citation-1&#34;&gt;Citation&lt;/h2&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Legend for Cycle-Cycle Figure is from: Miller DM, Flaherty KT. Pigment Cell Melanoma Research. 2014 May;27(3):351-65&lt;/li&gt;
@@ -520,7 +471,7 @@
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;citation-2&#34;&gt;Citation&lt;/h2&gt;
+&lt;h2 id=&#34;citation-1&#34;&gt;Citation&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Legend for Cycle-Cycle Figure is from: Miller DM, Flaherty KT. Pigment Cell Melanoma Research. 2014 May;27(3):351-65&lt;/li&gt;
@@ -549,7 +500,17 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/CDKN2A.jpg&#34;
+      data-background-image=&#34;./Slides/CDKN2A.pdf&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Prognosis.pdf&#34;
   &gt;
 
 
@@ -569,7 +530,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Approved-Tx-1.pdf&#34;
+      data-background-image=&#34;./Slides/Approved-Tx.pdf&#34;
   &gt;
 
 
