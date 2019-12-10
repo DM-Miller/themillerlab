@@ -12,10 +12,6 @@ image:
   preview_only: false
 lastMod: "2019-12-06T00:00:00Z"
 projects: 
-- Regulatory Medicine
-- Biomarkers
-- Data Science
-- MCC Registry
 subtitle: 
 summary: A fellowship at MGH in Skin Cancer research 
 tags: 
