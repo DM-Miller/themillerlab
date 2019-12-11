@@ -13,55 +13,55 @@ tags:
 title: Project Data Sphere and Ongoing Multi-Institutional Database Efforts
 ---
 
-{{< slide background-image="./Slides/Intro-Slide.pdf" >}}
+{{< slide background-image="./Slides/Intro-Slide.jpg" >}}
 
 
 ---
 
-{{< slide background-image="./Slides/Disclosures.pdf" >}}  
+{{< slide background-image="./Slides/Disclosures.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Unmet-Need.pdf" >}}  
+{{< slide background-image="./Slides/Unmet-Need.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/PDS-MCC-Registry.pdf" >}}  
+{{< slide background-image="./Slides/PDS-MCC-Registry.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Task-Force.pdf" >}}  
+{{< slide background-image="./Slides/Task-Force.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Objectives-and-Applications.pdf" >}}  
+{{< slide background-image="./Slides/Objectives-and-Applications.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/FDA-Guidance.pdf" >}}  
+{{< slide background-image="./Slides/FDA-Guidance.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Pilot-Study.pdf" >}}  
+{{< slide background-image="./Slides/Pilot-Study.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Instruments.pdf" >}}  
+{{< slide background-image="./Slides/Instruments.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Pilot-Part-1.pdf" >}}  
+{{< slide background-image="./Slides/Pilot-Part-1.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Data-Collection.pdf" >}}  
+{{< slide background-image="./Slides/Data-Collection.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Next-Steps.pdf" >}}  
+{{< slide background-image="./Slides/Next-Steps.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Acknowledgements.pdf" >}}  
+{{< slide background-image="./Slides/Acknowledgements.jpg" >}}  
 
 ---
