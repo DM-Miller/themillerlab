@@ -11,7 +11,7 @@ tags:
 - Education
 - Melanoma
 - Dermatology
-- Clinical Educator
+- Medical Oncology
 title: Melanoma - Pathogenesis, Diagnosis and Work Up
 project:
 - Clinical Educator
