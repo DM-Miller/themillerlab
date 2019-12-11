@@ -6,13 +6,13 @@ date: "2019-12-08T00:00:00Z"
 slides:
   highlight_style: dracula
   theme: black
-summary: Slides for CUMC Resident Lecture 12-13-19.
+summary: Slides for CUMC Resident Lecture 12-13-19 Primer.
 tags: 
 - Education
 - Melanoma
 - Dermatology
 - Medical Oncology
-title: Melanoma - Pathogenesis, Diagnosis and Work Up
+title: Primer - Melanoma - Pathogenesis, Diagnosis and Work Up
 project:
 - Clinical Educator
 ---
@@ -44,8 +44,11 @@ project:
 
 ---
 
-## Melanoma Pathogenesis
+{{< slide background-image="./Slides/ACS-Cancer-Stats.jpg" >}}  
 
+---
+
+## Melanoma Pathogenesis
 
 
 ---

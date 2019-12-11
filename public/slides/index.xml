@@ -5,7 +5,414 @@
     <link>/slides/</link>
       <atom:link href="/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Dec 2019 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Evolving Landscape of Regulatory Medicine in Cutaneous Oncology</title>
+      <link>/slides/reg_med_cut_onc-12-13-19-final-ppt/</link>
+      <pubDate>Sat, 14 Dec 2019 09:00:00 +0000</pubDate>
+      <guid>/slides/reg_med_cut_onc-12-13-19-final-ppt/</guid>
+      <description>
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Intro-Slide.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Overview of Regulatory Medicine&lt;/li&gt;
+&lt;li&gt;Evalutino of FDA Action in Cutaneous Oncology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Hx-FDA.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/PDUFA-Hx.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Clinical-Benefit.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Trial-Endpoints.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Approval_Pathways.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Levels-of-Clinical-Evidence.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Internal-External-Validity.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Melanoma - Pathogenesis, Diagnosis and Work Up</title>
+      <link>/slides/melanoma_12_13_19-final-ppt/</link>
+      <pubDate>Wed, 11 Dec 2019 09:00:00 +0000</pubDate>
+      <guid>/slides/melanoma_12_13_19-final-ppt/</guid>
+      <description>
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Intro-Slide.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Disclosures.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Review basic epidemiology of melanoma&lt;/li&gt;
+&lt;li&gt;Review molecular mechanisms of melanoma&lt;/li&gt;
+&lt;li&gt;Discuss risk factors for melanoma&lt;/li&gt;
+&lt;li&gt;Review how to evaluate and stage patients&lt;/li&gt;
+&lt;li&gt;Overview of management of melanoma&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;pre-lecture-quiz&#34;&gt;Pre-Lecture Quiz&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Take out your cell phone&lt;/li&gt;
+&lt;li&gt;Open text message app&lt;/li&gt;
+&lt;li&gt;Follow the instructions on the screen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;epidemiology&#34;&gt;Epidemiology&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1:25 Americans will get some kind of melanoma in their lifetime&lt;/li&gt;
+&lt;li&gt;1:52 Americans will get an invasive melanoma in their lifetime&lt;/li&gt;
+&lt;li&gt;Estimated to be 96,480 newly diagnosed cases of invasive melanoma in the U.S. in 2019
+
+&lt;ul&gt;
+&lt;li&gt;95,830 cases of melanoma in situ&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Between 9,000-10,000 deaths annually&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/ACS-Cancer-Stats.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;hallmarks-of-cancer&#34;&gt;Hallmarks of Cancer&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Self-sufficiency of growth signals&lt;/li&gt;
+&lt;li&gt;Insensitivity to anti-growth signals&lt;/li&gt;
+&lt;li&gt;Evading apoptosis&lt;/li&gt;
+&lt;li&gt;Limitless replicative potential&lt;/li&gt;
+&lt;li&gt;Sustained angiogenesis&lt;/li&gt;
+&lt;li&gt;Tissue invasion and metastasis&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ref: Hanahan and Weinberg. &lt;em&gt;Cell&lt;/em&gt; 2000. Vol 100&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;hallmarks-of-cancer-updated&#34;&gt;Hallmarks of Cancer - Updated&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Deregulating Cellular Energetics&lt;/li&gt;
+&lt;li&gt;Genome Instability and Mutation&lt;/li&gt;
+&lt;li&gt;Avoiding Immune Destruction&lt;/li&gt;
+&lt;li&gt;Tumor-promoting Inflammation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ref: Hanahan and Weinberg. &lt;em&gt;Cell&lt;/em&gt; 2011.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;melanoma-pathogenesis&#34;&gt;Melanoma Pathogenesis&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;oncogenes-and-tumor-suppressors&#34;&gt;Oncogenes and Tumor Suppressors&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Oncogenes-tsgs.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;oncogenes-in-melanoma&#34;&gt;Oncogenes in Melanoma&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Oncogenes-in-melanoma.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/cell-cycle.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/legend-cell-cycle.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/senescence.jpg&#34;
+  &gt;
+
+
+&lt;h4 id=&#34;oncogene-induced-senescence&#34;&gt;Oncogene-Induced Senescence&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/legend-senescence.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;why-don-t-all-melanocytes-undergo-oncogene-induced-senescence&#34;&gt;Why don’t all melanocytes undergo oncogene-induced senescence?&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/cell-cycle-2.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/melanoma-pathways.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/melanoma-pathways-legend.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;susceptibility-to-cutaneous-malignant-melanoma-cmm&#34;&gt;Susceptibility to Cutaneous Malignant Melanoma (CMM)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CMM1 has been mapped to chromosome 1p36.&lt;/li&gt;
+&lt;li&gt;CMM2 – CDKN2A (9p21)&lt;/li&gt;
+&lt;li&gt;CMM3 – CDK4 (12q14)&lt;/li&gt;
+&lt;li&gt;CMM4 – mapped to chromosome 1p22&lt;/li&gt;
+&lt;li&gt;CMM5 – MC1R (16q24)&lt;/li&gt;
+&lt;li&gt;CMM6 – XRCC3 (14q32)&lt;/li&gt;
+&lt;li&gt;CMM7 – mapped to chromosome 20q11&lt;/li&gt;
+&lt;li&gt;CMM8 – MITF (3p13)&lt;/li&gt;
+&lt;li&gt;CMM9 – TERT (5p15)&lt;/li&gt;
+&lt;li&gt;CMM10 – POT1 (7q31)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/CDKN2A.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Prognosis.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Tx-strategies.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Approved-Tx.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/CIT.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Legend-CIT.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Stage-3-Tx.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Tx-Metastatic-Dz.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
     <item>
       <title>Merkel Cell Carcinoma - Current Concepts in Diagnosis and Management</title>
       <link>/slides/odac_mcc-1-17-20/</link>
@@ -239,7 +646,7 @@
     </item>
     
     <item>
-      <title>Melanoma - Pathogenesis, Diagnosis and Work Up</title>
+      <title>Primer - Melanoma - Pathogenesis, Diagnosis and Work Up</title>
       <link>/slides/melanoma_12_13_19-primer/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/slides/melanoma_12_13_19-primer/</guid>
@@ -279,6 +686,16 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Between 9,000-10,000 deaths annually&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/ACS-Cancer-Stats.jpg&#34;
+  &gt;
+
 
 &lt;hr /&gt;
 

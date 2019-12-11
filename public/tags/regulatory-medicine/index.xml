@@ -5,12 +5,110 @@
     <link>/tags/regulatory-medicine/</link>
       <atom:link href="/tags/regulatory-medicine/index.xml" rel="self" type="application/rss+xml" />
     <description>Regulatory Medicine</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Dec 2019 09:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/MLab_logo_5.png</url>
       <title>Regulatory Medicine</title>
       <link>/tags/regulatory-medicine/</link>
     </image>
+    
+    <item>
+      <title>Evolving Landscape of Regulatory Medicine in Cutaneous Oncology</title>
+      <link>/slides/reg_med_cut_onc-12-13-19-final-ppt/</link>
+      <pubDate>Sat, 14 Dec 2019 09:00:00 +0000</pubDate>
+      <guid>/slides/reg_med_cut_onc-12-13-19-final-ppt/</guid>
+      <description>
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Intro-Slide.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Overview of Regulatory Medicine&lt;/li&gt;
+&lt;li&gt;Evalutino of FDA Action in Cutaneous Oncology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Hx-FDA.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/PDUFA-Hx.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Clinical-Benefit.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Trial-Endpoints.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Approval_Pathways.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Levels-of-Clinical-Evidence.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./Slides/Internal-External-Validity.jpg&#34;
+  &gt;
+
+
+&lt;hr /&gt;
+</description>
+    </item>
     
     <item>
       <title>The Evolving Landscape of Regulatory Medicine in Cutaneous Oncology</title>
