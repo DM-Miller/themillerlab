@@ -31,13 +31,13 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Intro-Slide.pdf&#34;
+      data-background-image=&#34;./Slides/Intro-Slide.jpg&#34;
   &gt;
 
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;learning-objective&#34;&gt;Learning Objective&lt;/h2&gt;
+&lt;h2 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Overview of Regulatory Medicine&lt;/li&gt;
@@ -50,7 +50,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Hx-FDA.pdf&#34;
+      data-background-image=&#34;./Slides/Hx-FDA.jpg&#34;
   &gt;
 
 
@@ -60,7 +60,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/PDUFA-Hx.pdf&#34;
+      data-background-image=&#34;./Slides/PDUFA-Hx.jpg&#34;
   &gt;
 
 
@@ -70,7 +70,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Clinical-Benefit.pdf&#34;
+      data-background-image=&#34;./Slides/Clinical-Benefit.jpg&#34;
   &gt;
 
 
@@ -80,7 +80,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Trial-Endpoints.pdf&#34;
+      data-background-image=&#34;./Slides/Trial-Endpoints.jpg&#34;
   &gt;
 
 
@@ -90,7 +90,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Approval_Pathways.pdf&#34;
+      data-background-image=&#34;./Slides/Approval_Pathways.jpg&#34;
   &gt;
 
 
@@ -100,7 +100,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Levels-of-Clinical-Evidence.pdf&#34;
+      data-background-image=&#34;./Slides/Levels-of-Clinical-Evidence.jpg&#34;
   &gt;
 
 
@@ -110,7 +110,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Internal-External-Validity.pdf&#34;
+      data-background-image=&#34;./Slides/Internal-External-Validity.jpg&#34;
   &gt;
 
 

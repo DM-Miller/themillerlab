@@ -15,7 +15,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Intro-Slide.pdf&#34;
+      data-background-image=&#34;./Slides/Intro-Slide.jpg&#34;
   &gt;
 
 
@@ -25,7 +25,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Disclosures.pdf&#34;
+      data-background-image=&#34;./Slides/Disclosures.jpg&#34;
   &gt;
 
 
@@ -35,7 +35,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Learning-Objectives.pdf&#34;
+      data-background-image=&#34;./Slides/Learning-Objectives.jpg&#34;
   &gt;
 
 
@@ -45,7 +45,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Melanoma-Approvals.pdf&#34;
+      data-background-image=&#34;./Slides/Melanoma-Approvals.jpg&#34;
   &gt;
 
 
@@ -62,7 +62,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Intro-Slide.pdf&#34;
+      data-background-image=&#34;./Slides/Intro-Slide.jpg&#34;
   &gt;
 
 
@@ -72,7 +72,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Disclosures.pdf&#34;
+      data-background-image=&#34;./Slides/Disclosures.jpg&#34;
   &gt;
 
 
@@ -82,7 +82,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Learning-Objectives.pdf&#34;
+      data-background-image=&#34;./Slides/Learning-Objectives.jpg&#34;
   &gt;
 
 
@@ -92,7 +92,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Melanoma-Approvals.pdf&#34;
+      data-background-image=&#34;./Slides/Melanoma-Approvals.jpg&#34;
   &gt;
 
 
@@ -102,7 +102,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Targeted-Therapy.pdf&#34;
+      data-background-image=&#34;./Slides/Targeted-Therapy.jpg&#34;
   &gt;
 
 
@@ -112,7 +112,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Immune-Checkpoints.pdf&#34;
+      data-background-image=&#34;./Slides/Immune-Checkpoints.jpg&#34;
   &gt;
 
 
@@ -122,7 +122,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Melanoma-Approvals-Color.pdf&#34;
+      data-background-image=&#34;./Slides/Melanoma-Approvals-Color.jpg&#34;
   &gt;
 
 
@@ -132,7 +132,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Pilot-Study.pdf&#34;
+      data-background-image=&#34;./Slides/Pilot-Study.jpg&#34;
   &gt;
 
 
@@ -142,7 +142,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Instruments.pdf&#34;
+      data-background-image=&#34;./Slides/Instruments.jpg&#34;
   &gt;
 
 
@@ -152,7 +152,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Pilot-Part-1.pdf&#34;
+      data-background-image=&#34;./Slides/Pilot-Part-1.jpg&#34;
   &gt;
 
 
@@ -162,7 +162,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Data-Collection.pdf&#34;
+      data-background-image=&#34;./Slides/Data-Collection.jpg&#34;
   &gt;
 
 
@@ -172,7 +172,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Next-Steps.pdf&#34;
+      data-background-image=&#34;./Slides/Next-Steps.jpg&#34;
   &gt;
 
 
@@ -182,7 +182,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Acknowledgements.pdf&#34;
+      data-background-image=&#34;./Slides/Acknowledgements.jpg&#34;
   &gt;
 
 
@@ -201,13 +201,13 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Intro-Slide.pdf&#34;
+      data-background-image=&#34;./Slides/Intro-Slide.jpg&#34;
   &gt;
 
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;learning-objective&#34;&gt;Learning Objective&lt;/h2&gt;
+&lt;h2 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Overview of Regulatory Medicine&lt;/li&gt;
@@ -220,7 +220,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Hx-FDA.pdf&#34;
+      data-background-image=&#34;./Slides/Hx-FDA.jpg&#34;
   &gt;
 
 
@@ -230,7 +230,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/PDUFA-Hx.pdf&#34;
+      data-background-image=&#34;./Slides/PDUFA-Hx.jpg&#34;
   &gt;
 
 
@@ -240,7 +240,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Clinical-Benefit.pdf&#34;
+      data-background-image=&#34;./Slides/Clinical-Benefit.jpg&#34;
   &gt;
 
 
@@ -250,7 +250,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Trial-Endpoints.pdf&#34;
+      data-background-image=&#34;./Slides/Trial-Endpoints.jpg&#34;
   &gt;
 
 
@@ -260,7 +260,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Approval_Pathways.pdf&#34;
+      data-background-image=&#34;./Slides/Approval_Pathways.jpg&#34;
   &gt;
 
 
@@ -270,7 +270,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Levels-of-Clinical-Evidence.pdf&#34;
+      data-background-image=&#34;./Slides/Levels-of-Clinical-Evidence.jpg&#34;
   &gt;
 
 
@@ -280,7 +280,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Internal-External-Validity.pdf&#34;
+      data-background-image=&#34;./Slides/Internal-External-Validity.jpg&#34;
   &gt;
 
 

@@ -14,55 +14,55 @@ tags:
 title: Therapeutic Updates in Melanoma - IO for Earlier Stage Disease
 ---
 
-{{< slide background-image="./Slides/Intro-Slide.pdf" >}}
+{{< slide background-image="./Slides/Intro-Slide.jpg" >}}
 
 
 ---
 
-{{< slide background-image="./Slides/Disclosures.pdf" >}}  
+{{< slide background-image="./Slides/Disclosures.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Learning-Objectives.pdf" >}}  
+{{< slide background-image="./Slides/Learning-Objectives.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Melanoma-Approvals.pdf" >}}  
+{{< slide background-image="./Slides/Melanoma-Approvals.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Targeted-Therapy.pdf" >}}  
+{{< slide background-image="./Slides/Targeted-Therapy.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Immune-Checkpoints.pdf" >}}  
+{{< slide background-image="./Slides/Immune-Checkpoints.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Melanoma-Approvals-Color.pdf" >}}  
+{{< slide background-image="./Slides/Melanoma-Approvals-Color.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Pilot-Study.pdf" >}}  
+{{< slide background-image="./Slides/Pilot-Study.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Instruments.pdf" >}}  
+{{< slide background-image="./Slides/Instruments.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Pilot-Part-1.pdf" >}}  
+{{< slide background-image="./Slides/Pilot-Part-1.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Data-Collection.pdf" >}}  
+{{< slide background-image="./Slides/Data-Collection.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Next-Steps.pdf" >}}  
+{{< slide background-image="./Slides/Next-Steps.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Acknowledgements.pdf" >}}  
+{{< slide background-image="./Slides/Acknowledgements.jpg" >}}  
 
 ---

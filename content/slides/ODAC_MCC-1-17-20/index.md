@@ -15,19 +15,19 @@ title: Merkel Cell Carcinoma - Current Concepts in Diagnosis and Management
 
 ---
 
-{{< slide background-image="./Slides/Intro-Slide.pdf" >}}
+{{< slide background-image="./Slides/Intro-Slide.jpg" >}}
 
 
 ---
 
-{{< slide background-image="./Slides/Disclosures.pdf" >}}  
+{{< slide background-image="./Slides/Disclosures.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Learning-Objectives.pdf" >}}  
+{{< slide background-image="./Slides/Learning-Objectives.jpg" >}}  
 
 ---
 
-{{< slide background-image="./Slides/Melanoma-Approvals.pdf" >}}  
+{{< slide background-image="./Slides/Melanoma-Approvals.jpg" >}}  
 
 ---
