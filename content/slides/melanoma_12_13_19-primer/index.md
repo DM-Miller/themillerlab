@@ -22,7 +22,7 @@ project:
 
 ---
 
-## Learning Objective
+## Learning Objectives
 
 - Review basic epidemiology of melanoma
 - Review molecular mechanisms of melanoma
@@ -44,7 +44,7 @@ project:
 
 ---
 
-## Pathogenesis
+## Melanoma Pathogenesis
 
 
 
@@ -63,39 +63,7 @@ project:
 
 ---
 
-## Legend for Cycle Cycle Figure
-
-- The cell cycle is regulated by the dynamic interactions of highly coordinated enzymatic proteins to ensure genomic fidelity. 
-
----
-
-## Legend for Cycle Cycle Figure (cont.)  
-
-- Cells first enter the cell cycle after receiving mitogenic signals, from stimuli such as RAS, which activate the cyclin D-dependent kinases, CDK4 and CDK6, via increased expression of cyclin D and by triggering release from inhibitory INK4 (p15 and p16) and CIP/KIP (p21CIP1 and p27KIP1) proteins. 
-  
----
-## Legend for Cycle Cycle Figure (cont.)  
-
-- Early in G1, RB is initially phosphorylated by cyclin D–CDK4/6 complexes, which abrogates the RB-dependent inhibition of the transcription factor E2F. 
-- E2F transcription factors are then released from the partially phosphorylated RB and promote transcription of genes (e.g. CCNE1) necessary to progress through the G1/S checkpoint.   
-
----
-## Legend for Cycle Cycle Figure (cont.)  
-
-- RB is further phosphorylated in late G1 by cyclin E–CDK2 complexes, enabling E2F transcription factors to express genes required for DNA synthesis. After entry into the S phase, a hyperphosphorylated state of RB is maintained by the activities of cyclin A–CDK2, cyclin A–CDK1 and cyclin B–CDK1 complexes. 
-
---- 
-
-## Legend for Cycle Cycle Figure (cont.)  
-
-- At the end of mitosis RB proteins are dephosphorylated by phosphatases allowing recombination with E2F and DP to prevent unregulated cell proliferation. The cell cycle is negatively regulated by members of the INK4 (p15, p16) and CIP/KIP families (p21CIP1 and p27KIP1) 
-
----
-
-
-## Citation  
-
-- Legend for Cycle-Cycle Figure is from: Miller DM, Flaherty KT. Pigment Cell Melanoma Research. 2014 May;27(3):351-65
+{{< slide background-image="./Slides/legend-cell-cycle.jpg" >}} 
 
 ---
 
@@ -103,43 +71,8 @@ project:
  
 --- 
 
-## Legend For Senescence Pathways Figure  
+{{< slide background-image="./Slides/legend-senescence.jpg" >}} 
 
-- The cellular senescence program can be initiated via several pathway outputs that utilize common effector molecules.  
-- While the mechanisms governing senescence have yet to be fully described, telomere shortening is believed to trigger cellular arrest by activating INK4a-RB signaling and the p53-p21 pathway via molecules such as ATM, ATR and CHK2.
-
----  
-
-## Legend For Senescence Pathways Figure (cont.)  
-
-- Permanent inactivation of CDKs can also occur downstream of the DNA damage response (DDR), which can be triggered by a variety of genotoxic stimuli including ultraviolet (UV) radiation, reactive oxygen species (ROS) and hyper-replicative DNA (HRD).  
-  
-  
----
-  
-## Legend For Senescence Pathways Figure (cont.)   
- 
-- The DDR stimulates INK4a-mediated inhibition of CDK4/6 and the p53-p21 pathway in part via ARF inhibition of MDM2-mediated ubiquitination of p53 and activation of ATM. 
-
----
-
-## Legend For Senescence Pathways Figure (Cont.)  
-
-- Activation of INK4a inhibits the CDK4/ 6-mediated activation of FOXM1, which antagonizes ROS-mediated DNA damage.  
-- The senescence cascade is also activated in certain contexts of persistent mitogenic stimulation, such as constitutive activation of RAS or RAF proteins (referred to as oncogene-induced senescence (OIS).  
-
----
-
-## Legend For Senescence Pathways Figure (Cont.)  
-
-- OIS involves p38 MAPK and activates RB and p53 via HBP1 and PRAK, respectively  
--  Active RB contributes to formation of senescence-associated heterochromatin foci (SAHF), and this heterochromatization of DNA precludes transcription of E2F target genes, contributing to the overall state of irreversible cell-cycle arrest. 
-
----
-
-## Citation
-  
-- Legend for Cycle-Cycle Figure is from: Miller DM, Flaherty KT. Pigment Cell Melanoma Research. 2014 May;27(3):351-65
 
 --- 
 
@@ -177,36 +110,8 @@ project:
    
   
 ---
-## Legend for Immuntherapy Figure
 
-- T-cell activation results from the summation of several activating signals. 
-- These include stimulation of the T-cell receptor (TCR) by an antigen complexed with the major histocompatibility complex (MHC) and CD28 by CD80 or CD86 (CD80/86).  
-
----
-
-## Legend for Immuntherapy Figure (cont.)
-
-- Of note, MHC class I molecules activate CD8+-T cells, while MHC class II molecules are recognized by CD4+-T cells. T-cell activation and function are tightly calibrated by regulatory mechanisms to prevent autoimmunity and excessive tissue inflammation. 
-- T-cell activation is negatively regulated by CTLA4, which not only competes with CD28 for CD80 and CD86, but can also transmit inhibitory signals that attenuate activation. 
-
----
-
-## Legend for Immuntherapy Figure (cont.)
-
-- In peripheral tissues, ligation of the program death-1 (PD-1) receptor by PD-L1 inhibits effector functions of T-cells. 
-- PD-L1 is expressed on both antigen-presenting cells, such as macrophages, and malignant melanocytes. 
-
----
-
-## Legend for Immuntherapy Figure (cont.)
-
-- Monoclonal antibodies directed against CTLA-4 (ipilimumab), PD-1 (nivolumab and Pembrolizumab) and PD-L1 (Avelumab/Atezolizumb; of note, neither are approved for melanoma, but are approved for other malignancies) can overcome intrinsic immune checkpoints by licensing tumor-specific T cells.
-
----
-
-## Citation for Immuntherapy Figure 
-
-- Miller D,  Flaherty K, and Tsao H. Seminars in Cutaneous Medicine and Surgery, Vol. 33, June 2014 
+{{< slide background-image="./Slides/Legend-CIT.jpg" >}} 
 
 ---
 

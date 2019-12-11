@@ -25,7 +25,7 @@ links:
 location: ODAC Dermatology, Aesthetic & Surgical Conference - JW Marriott
 math: true
 projects:
-- Patient Registries
+- Clinical Educator
 publishDate: "2019-11-12T16:00:00Z"
 slides: ODAC_MCC-1-17-20
 summary:

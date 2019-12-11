@@ -25,7 +25,7 @@ links:
 location: Columbia University Medical Center
 math: true
 projects:
-- internal-project
+- Clinical Educator
 publishDate: "2019-11-24T18:00:00Z"
 slides: melanoma_12_13_19-primer
 summary: 
