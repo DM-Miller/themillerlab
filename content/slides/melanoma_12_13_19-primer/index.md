@@ -176,6 +176,16 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
   
 ---
 
+  
+{{< slide background-image="./Slides/CIT-90.jpg" >}}
+   
+  
+---
+  
+{{< slide background-image="./Slides/CIT-100.jpg" >}}
+   
+  
+---
 ## Legend for Immuntherapy Figure
 
 - T-cell activation results from the summation of several activating signals. 
