@@ -299,7 +299,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Intro-Slide.pdf&#34;
+      data-background-image=&#34;./Slides/Intro-Slide.jpg&#34;
   &gt;
 
 
@@ -340,7 +340,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/melanoma-pathways.pdf&#34;
+      data-background-image=&#34;./Slides/melanoma-pathways.jpg&#34;
   &gt;
 
 
@@ -350,7 +350,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/melanoma-pathways-legend.pdf&#34;
+      data-background-image=&#34;./Slides/melanoma-pathways-legend.jpg&#34;
   &gt;
 
 
@@ -360,7 +360,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/cell-cycle.pdf&#34;
+      data-background-image=&#34;./Slides/cell-cycle.jpg&#34;
   &gt;
 
 
@@ -420,7 +420,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/senescence.pdf&#34;
+      data-background-image=&#34;./Slides/senescence.jpg&#34;
   &gt;
 
 
@@ -500,7 +500,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/CDKN2A.pdf&#34;
+      data-background-image=&#34;./Slides/CDKN2A.jpg&#34;
   &gt;
 
 
@@ -510,7 +510,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Prognosis.pdf&#34;
+      data-background-image=&#34;./Slides/Prognosis.jpg&#34;
   &gt;
 
 
@@ -520,7 +520,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Tx-strategies.pdf&#34;
+      data-background-image=&#34;./Slides/Tx-strategies.jpg&#34;
   &gt;
 
 
@@ -530,7 +530,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Approved-Tx.pdf&#34;
+      data-background-image=&#34;./Slides/Approved-Tx.jpg&#34;
   &gt;
 
 
@@ -540,27 +540,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/CIT.pdf&#34;
-  &gt;
-
-
-&lt;hr /&gt;
-
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;./Slides/CIT-90.jpg&#34;
-  &gt;
-
-
-&lt;hr /&gt;
-
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;./Slides/CIT-100.jpg&#34;
+      data-background-image=&#34;./Slides/CIT.jpg&#34;
   &gt;
 
 
@@ -613,7 +593,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Stage-3-Tx.pdf&#34;
+      data-background-image=&#34;./Slides/Stage-3-Tx.jpg&#34;
   &gt;
 
 
@@ -623,7 +603,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Tx-Metastatic-Dz.pdf&#34;
+      data-background-image=&#34;./Slides/Tx-Metastatic-Dz.jpg&#34;
   &gt;
 
 
@@ -640,7 +620,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Intro-Slide.pdf&#34;
+      data-background-image=&#34;./Slides/Intro-Slide.jpg&#34;
   &gt;
 
 
@@ -650,7 +630,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Disclosures.pdf&#34;
+      data-background-image=&#34;./Slides/Disclosures.jpg&#34;
   &gt;
 
 
@@ -660,7 +640,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Unmet-Need.pdf&#34;
+      data-background-image=&#34;./Slides/Unmet-Need.jpg&#34;
   &gt;
 
 
@@ -670,7 +650,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/PDS-MCC-Registry.pdf&#34;
+      data-background-image=&#34;./Slides/PDS-MCC-Registry.jpg&#34;
   &gt;
 
 
@@ -680,7 +660,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Task-Force.pdf&#34;
+      data-background-image=&#34;./Slides/Task-Force.jpg&#34;
   &gt;
 
 
@@ -690,7 +670,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Objectives-and-Applications.pdf&#34;
+      data-background-image=&#34;./Slides/Objectives-and-Applications.jpg&#34;
   &gt;
 
 
@@ -700,7 +680,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/FDA-Guidance.pdf&#34;
+      data-background-image=&#34;./Slides/FDA-Guidance.jpg&#34;
   &gt;
 
 
@@ -710,7 +690,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Pilot-Study.pdf&#34;
+      data-background-image=&#34;./Slides/Pilot-Study.jpg&#34;
   &gt;
 
 
@@ -720,7 +700,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Instruments.pdf&#34;
+      data-background-image=&#34;./Slides/Instruments.jpg&#34;
   &gt;
 
 
@@ -730,7 +710,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Pilot-Part-1.pdf&#34;
+      data-background-image=&#34;./Slides/Pilot-Part-1.jpg&#34;
   &gt;
 
 
@@ -740,7 +720,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Data-Collection.pdf&#34;
+      data-background-image=&#34;./Slides/Data-Collection.jpg&#34;
   &gt;
 
 
@@ -750,7 +730,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Next-Steps.pdf&#34;
+      data-background-image=&#34;./Slides/Next-Steps.jpg&#34;
   &gt;
 
 
@@ -760,7 +740,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Acknowledgements.pdf&#34;
+      data-background-image=&#34;./Slides/Acknowledgements.jpg&#34;
   &gt;
 
 

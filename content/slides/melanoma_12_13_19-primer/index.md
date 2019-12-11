@@ -11,11 +11,13 @@ tags:
 - Education
 - Melanoma
 - Dermatology
+- Clinical Educator
 title: Melanoma - Pathogenesis, Diagnosis and Work Up
-
+project:
+- Clinical Educator
 ---
 
-{{< slide background-image="./Slides/Intro-Slide.pdf" >}}
+{{< slide background-image="./Slides/Intro-Slide.jpg" >}}
 
 
 ---
@@ -48,16 +50,16 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
 
 ---
 
-{{< slide background-image="./Slides/melanoma-pathways.pdf" >}}
+{{< slide background-image="./Slides/melanoma-pathways.jpg" >}}
   
 ---
 
-{{< slide background-image="./Slides/melanoma-pathways-legend.pdf" >}}
+{{< slide background-image="./Slides/melanoma-pathways-legend.jpg" >}}
 
 
 ---
 
-{{< slide background-image="./Slides/cell-cycle.pdf" >}}
+{{< slide background-image="./Slides/cell-cycle.jpg" >}}
 
 ---
 
@@ -97,7 +99,7 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
 
 ---
 
-{{< slide background-image="./Slides/senescence.pdf" >}} 
+{{< slide background-image="./Slides/senescence.jpg" >}} 
  
 --- 
 
@@ -155,34 +157,23 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
 
 ---
  
-{{< slide background-image="./Slides/CDKN2A.pdf" >}}
+{{< slide background-image="./Slides/CDKN2A.jpg" >}}
 
 ---
  
-{{< slide background-image="./Slides/Prognosis.pdf" >}}
+{{< slide background-image="./Slides/Prognosis.jpg" >}}
 
 ---
   
-{{< slide background-image="./Slides/Tx-strategies.pdf" >}}
+{{< slide background-image="./Slides/Tx-strategies.jpg" >}}
 
 ---
   
-{{< slide background-image="./Slides/Approved-Tx.pdf" >}}
+{{< slide background-image="./Slides/Approved-Tx.jpg" >}}
 
 ---
   
-{{< slide background-image="./Slides/CIT.pdf" >}}
-   
-  
----
-
-  
-{{< slide background-image="./Slides/CIT-90.jpg" >}}
-   
-  
----
-  
-{{< slide background-image="./Slides/CIT-100.jpg" >}}
+{{< slide background-image="./Slides/CIT.jpg" >}}
    
   
 ---
@@ -219,11 +210,11 @@ title: Melanoma - Pathogenesis, Diagnosis and Work Up
 
 ---
 
-{{< slide background-image="./Slides/Stage-3-Tx.pdf" >}}
+{{< slide background-image="./Slides/Stage-3-Tx.jpg" >}}
 
 ---
 
-{{< slide background-image="./Slides/Tx-Metastatic-Dz.pdf" >}}
+{{< slide background-image="./Slides/Tx-Metastatic-Dz.jpg" >}}
 
 ---
 

@@ -129,7 +129,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Intro-Slide.pdf&#34;
+      data-background-image=&#34;./Slides/Intro-Slide.jpg&#34;
   &gt;
 
 
@@ -170,7 +170,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/melanoma-pathways.pdf&#34;
+      data-background-image=&#34;./Slides/melanoma-pathways.jpg&#34;
   &gt;
 
 
@@ -180,7 +180,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/melanoma-pathways-legend.pdf&#34;
+      data-background-image=&#34;./Slides/melanoma-pathways-legend.jpg&#34;
   &gt;
 
 
@@ -190,7 +190,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/cell-cycle.pdf&#34;
+      data-background-image=&#34;./Slides/cell-cycle.jpg&#34;
   &gt;
 
 
@@ -250,7 +250,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/senescence.pdf&#34;
+      data-background-image=&#34;./Slides/senescence.jpg&#34;
   &gt;
 
 
@@ -330,7 +330,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/CDKN2A.pdf&#34;
+      data-background-image=&#34;./Slides/CDKN2A.jpg&#34;
   &gt;
 
 
@@ -340,7 +340,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Prognosis.pdf&#34;
+      data-background-image=&#34;./Slides/Prognosis.jpg&#34;
   &gt;
 
 
@@ -350,7 +350,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Tx-strategies.pdf&#34;
+      data-background-image=&#34;./Slides/Tx-strategies.jpg&#34;
   &gt;
 
 
@@ -360,7 +360,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Approved-Tx.pdf&#34;
+      data-background-image=&#34;./Slides/Approved-Tx.jpg&#34;
   &gt;
 
 
@@ -370,27 +370,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/CIT.pdf&#34;
-  &gt;
-
-
-&lt;hr /&gt;
-
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;./Slides/CIT-90.jpg&#34;
-  &gt;
-
-
-&lt;hr /&gt;
-
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;./Slides/CIT-100.jpg&#34;
+      data-background-image=&#34;./Slides/CIT.jpg&#34;
   &gt;
 
 
@@ -443,7 +423,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Stage-3-Tx.pdf&#34;
+      data-background-image=&#34;./Slides/Stage-3-Tx.jpg&#34;
   &gt;
 
 
@@ -453,7 +433,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;./Slides/Tx-Metastatic-Dz.pdf&#34;
+      data-background-image=&#34;./Slides/Tx-Metastatic-Dz.jpg&#34;
   &gt;
 
 
